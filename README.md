@@ -14,6 +14,18 @@
 Посилання на сирий файл:
 `https://raw.githubusercontent.com/Svitlobot-official/timetables/main/kyiv/37.1.json`
 
+## Картинки
+
+Картинка тижня для кожної групи — за постійною адресою, завжди актуальна
+(посилання є в полі `image` у `index.json`):
+
+`https://api.svitlobot.in.ua/timetables/kyiv/37.1.png`
+
+![Київ, група 37.1](https://api.svitlobot.in.ua/timetables/kyiv/37.1.png)
+
+Картинки не зберігаються в репозиторії, щоб він не розростався: вони малюються
+з тих самих даних, що й JSON.
+
 ## Формат файлу групи
 
 ```json
