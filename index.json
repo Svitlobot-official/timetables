@@ -1636,7 +1636,7 @@
    "file": "zaporizhzhia/1.1.json",
    "image": "https://api.svitlobot.in.ua/timetables/zaporizhzhia/1.1.png",
    "image_today": "https://api.svitlobot.in.ua/timetables/zaporizhzhia/1.1/today.png",
-   "updated_at": "2026-11-11T16:00:38+02:00"
+   "updated_at": "2026-11-11T20:42:29+02:00"
   },
   {
    "region": "zaporizhzhia",
@@ -1645,7 +1645,7 @@
    "file": "zaporizhzhia/1.2.json",
    "image": "https://api.svitlobot.in.ua/timetables/zaporizhzhia/1.2.png",
    "image_today": "https://api.svitlobot.in.ua/timetables/zaporizhzhia/1.2/today.png",
-   "updated_at": "2026-11-11T18:51:16+02:00"
+   "updated_at": "2026-11-11T20:42:29+02:00"
   },
   {
    "region": "zaporizhzhia",
@@ -1654,7 +1654,7 @@
    "file": "zaporizhzhia/2.1.json",
    "image": "https://api.svitlobot.in.ua/timetables/zaporizhzhia/2.1.png",
    "image_today": "https://api.svitlobot.in.ua/timetables/zaporizhzhia/2.1/today.png",
-   "updated_at": "2026-11-11T16:25:37+02:00"
+   "updated_at": "2026-11-11T20:42:29+02:00"
   },
   {
    "region": "zaporizhzhia",
@@ -1663,7 +1663,7 @@
    "file": "zaporizhzhia/2.2.json",
    "image": "https://api.svitlobot.in.ua/timetables/zaporizhzhia/2.2.png",
    "image_today": "https://api.svitlobot.in.ua/timetables/zaporizhzhia/2.2/today.png",
-   "updated_at": "2026-11-11T16:25:37+02:00"
+   "updated_at": "2026-11-11T20:42:29+02:00"
   },
   {
    "region": "zaporizhzhia",
@@ -1672,7 +1672,7 @@
    "file": "zaporizhzhia/3.1.json",
    "image": "https://api.svitlobot.in.ua/timetables/zaporizhzhia/3.1.png",
    "image_today": "https://api.svitlobot.in.ua/timetables/zaporizhzhia/3.1/today.png",
-   "updated_at": "2026-11-11T18:51:16+02:00"
+   "updated_at": "2026-11-11T20:42:29+02:00"
   },
   {
    "region": "zaporizhzhia",
@@ -1681,7 +1681,7 @@
    "file": "zaporizhzhia/3.2.json",
    "image": "https://api.svitlobot.in.ua/timetables/zaporizhzhia/3.2.png",
    "image_today": "https://api.svitlobot.in.ua/timetables/zaporizhzhia/3.2/today.png",
-   "updated_at": "2026-11-11T18:51:16+02:00"
+   "updated_at": "2026-11-11T20:42:29+02:00"
   },
   {
    "region": "zaporizhzhia",
@@ -1690,7 +1690,7 @@
    "file": "zaporizhzhia/4.1.json",
    "image": "https://api.svitlobot.in.ua/timetables/zaporizhzhia/4.1.png",
    "image_today": "https://api.svitlobot.in.ua/timetables/zaporizhzhia/4.1/today.png",
-   "updated_at": "2026-11-11T16:00:38+02:00"
+   "updated_at": "2026-11-11T20:42:29+02:00"
   },
   {
    "region": "zaporizhzhia",
@@ -1699,7 +1699,7 @@
    "file": "zaporizhzhia/4.2.json",
    "image": "https://api.svitlobot.in.ua/timetables/zaporizhzhia/4.2.png",
    "image_today": "https://api.svitlobot.in.ua/timetables/zaporizhzhia/4.2/today.png",
-   "updated_at": "2026-11-11T16:00:38+02:00"
+   "updated_at": "2026-11-11T20:42:29+02:00"
   },
   {
    "region": "zaporizhzhia",
@@ -1708,7 +1708,7 @@
    "file": "zaporizhzhia/5.1.json",
    "image": "https://api.svitlobot.in.ua/timetables/zaporizhzhia/5.1.png",
    "image_today": "https://api.svitlobot.in.ua/timetables/zaporizhzhia/5.1/today.png",
-   "updated_at": "2026-11-11T16:00:38+02:00"
+   "updated_at": "2026-11-11T20:42:29+02:00"
   },
   {
    "region": "zaporizhzhia",
@@ -1717,7 +1717,7 @@
    "file": "zaporizhzhia/5.2.json",
    "image": "https://api.svitlobot.in.ua/timetables/zaporizhzhia/5.2.png",
    "image_today": "https://api.svitlobot.in.ua/timetables/zaporizhzhia/5.2/today.png",
-   "updated_at": "2026-11-11T12:06:47+02:00"
+   "updated_at": "2026-11-11T20:42:29+02:00"
   },
   {
    "region": "zaporizhzhia",
@@ -1726,7 +1726,7 @@
    "file": "zaporizhzhia/6.1.json",
    "image": "https://api.svitlobot.in.ua/timetables/zaporizhzhia/6.1.png",
    "image_today": "https://api.svitlobot.in.ua/timetables/zaporizhzhia/6.1/today.png",
-   "updated_at": "2026-11-11T12:06:47+02:00"
+   "updated_at": "2026-11-11T20:42:29+02:00"
   },
   {
    "region": "zaporizhzhia",
@@ -1735,7 +1735,7 @@
    "file": "zaporizhzhia/6.2.json",
    "image": "https://api.svitlobot.in.ua/timetables/zaporizhzhia/6.2.png",
    "image_today": "https://api.svitlobot.in.ua/timetables/zaporizhzhia/6.2/today.png",
-   "updated_at": "2026-11-11T18:51:16+02:00"
+   "updated_at": "2026-11-11T20:42:29+02:00"
   },
   {
    "region": "zhytomyr",
