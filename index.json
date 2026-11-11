@@ -207,7 +207,7 @@
    "group": "1.1",
    "file": "dnipro_cek/1.1.json",
    "image": "https://api.svitlobot.in.ua/timetables/dnipro_cek/1.1.png",
-   "updated_at": "2026-11-10T23:15:31+02:00"
+   "updated_at": "2026-11-11T16:45:33+02:00"
   },
   {
    "region": "dnipro_cek",
@@ -215,7 +215,7 @@
    "group": "1.2",
    "file": "dnipro_cek/1.2.json",
    "image": "https://api.svitlobot.in.ua/timetables/dnipro_cek/1.2.png",
-   "updated_at": "2026-11-10T23:15:31+02:00"
+   "updated_at": "2026-11-11T16:45:33+02:00"
   },
   {
    "region": "dnipro_cek",
@@ -255,7 +255,7 @@
    "group": "4.1",
    "file": "dnipro_cek/4.1.json",
    "image": "https://api.svitlobot.in.ua/timetables/dnipro_cek/4.1.png",
-   "updated_at": "2026-11-10T23:15:31+02:00"
+   "updated_at": "2026-11-11T16:45:33+02:00"
   },
   {
    "region": "dnipro_cek",
@@ -263,7 +263,7 @@
    "group": "4.2",
    "file": "dnipro_cek/4.2.json",
    "image": "https://api.svitlobot.in.ua/timetables/dnipro_cek/4.2.png",
-   "updated_at": "2026-11-10T23:15:31+02:00"
+   "updated_at": "2026-11-11T16:45:33+02:00"
   },
   {
    "region": "dnipro_cek",
@@ -271,7 +271,7 @@
    "group": "5.1",
    "file": "dnipro_cek/5.1.json",
    "image": "https://api.svitlobot.in.ua/timetables/dnipro_cek/5.1.png",
-   "updated_at": "2026-11-10T23:15:31+02:00"
+   "updated_at": "2026-11-11T16:45:33+02:00"
   },
   {
    "region": "dnipro_cek",
@@ -279,7 +279,7 @@
    "group": "5.2",
    "file": "dnipro_cek/5.2.json",
    "image": "https://api.svitlobot.in.ua/timetables/dnipro_cek/5.2.png",
-   "updated_at": "2026-11-10T23:15:31+02:00"
+   "updated_at": "2026-11-11T16:45:33+02:00"
   },
   {
    "region": "dnipro_cek",
