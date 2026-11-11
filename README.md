@@ -16,12 +16,16 @@
 
 ## Картинки
 
-Картинка тижня для кожної групи — за постійною адресою, завжди актуальна
-(посилання є в полі `image` у `index.json`):
+Для кожної групи є дві картинки за постійними адресами, завжди актуальні
+(посилання — у полях `image` і `image_today` в `index.json`):
 
-`https://api.svitlobot.in.ua/timetables/kyiv/37.1.png`
+- тиждень: `https://api.svitlobot.in.ua/timetables/kyiv/37.1.png`
+  (або `…/kyiv/37.1/week.png`);
+- сьогодні й завтра: `https://api.svitlobot.in.ua/timetables/kyiv/37.1/today.png`.
 
-![Київ, група 37.1](https://api.svitlobot.in.ua/timetables/kyiv/37.1.png)
+![Київ, група 37.1 — сьогодні й завтра](https://api.svitlobot.in.ua/timetables/kyiv/37.1/today.png)
+
+![Київ, група 37.1 — тиждень](https://api.svitlobot.in.ua/timetables/kyiv/37.1.png)
 
 Картинки не зберігаються в репозиторії, щоб він не розростався: вони малюються
 з тих самих даних, що й JSON.
