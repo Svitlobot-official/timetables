@@ -1,0 +1,1441 @@
+{
+ "source": "https://svitlobot.in.ua",
+ "license": "CC BY 4.0",
+ "timezone": "Europe/Kyiv",
+ "slots": {
+  "0": "світло є",
+  "1": "немає всю годину",
+  "2": "немає перші 30 хв",
+  "3": "немає другі 30 хв"
+ },
+ "groups": [
+  {
+   "region": "cherkasy",
+   "region_name": "Черкаська область",
+   "group": "1.1",
+   "file": "cherkasy/1.1.json",
+   "updated_at": "2026-11-10T22:18:36+02:00"
+  },
+  {
+   "region": "cherkasy",
+   "region_name": "Черкаська область",
+   "group": "1.2",
+   "file": "cherkasy/1.2.json",
+   "updated_at": "2026-11-10T22:18:36+02:00"
+  },
+  {
+   "region": "cherkasy",
+   "region_name": "Черкаська область",
+   "group": "2.1",
+   "file": "cherkasy/2.1.json",
+   "updated_at": "2026-11-10T22:18:36+02:00"
+  },
+  {
+   "region": "cherkasy",
+   "region_name": "Черкаська область",
+   "group": "2.2",
+   "file": "cherkasy/2.2.json",
+   "updated_at": "2026-11-10T22:18:36+02:00"
+  },
+  {
+   "region": "cherkasy",
+   "region_name": "Черкаська область",
+   "group": "3.1",
+   "file": "cherkasy/3.1.json",
+   "updated_at": "2026-11-10T22:18:36+02:00"
+  },
+  {
+   "region": "cherkasy",
+   "region_name": "Черкаська область",
+   "group": "3.2",
+   "file": "cherkasy/3.2.json",
+   "updated_at": "2026-11-10T22:18:36+02:00"
+  },
+  {
+   "region": "cherkasy",
+   "region_name": "Черкаська область",
+   "group": "4.1",
+   "file": "cherkasy/4.1.json",
+   "updated_at": "2026-11-10T22:18:36+02:00"
+  },
+  {
+   "region": "cherkasy",
+   "region_name": "Черкаська область",
+   "group": "4.2",
+   "file": "cherkasy/4.2.json",
+   "updated_at": "2026-11-10T22:18:36+02:00"
+  },
+  {
+   "region": "cherkasy",
+   "region_name": "Черкаська область",
+   "group": "5.1",
+   "file": "cherkasy/5.1.json",
+   "updated_at": "2026-11-10T22:18:36+02:00"
+  },
+  {
+   "region": "cherkasy",
+   "region_name": "Черкаська область",
+   "group": "5.2",
+   "file": "cherkasy/5.2.json",
+   "updated_at": "2026-11-10T22:18:36+02:00"
+  },
+  {
+   "region": "cherkasy",
+   "region_name": "Черкаська область",
+   "group": "6.1",
+   "file": "cherkasy/6.1.json",
+   "updated_at": "2026-11-10T22:18:36+02:00"
+  },
+  {
+   "region": "cherkasy",
+   "region_name": "Черкаська область",
+   "group": "6.2",
+   "file": "cherkasy/6.2.json",
+   "updated_at": "2026-11-10T22:18:36+02:00"
+  },
+  {
+   "region": "chernihiv",
+   "region_name": "Чернігівська область",
+   "group": "1.1",
+   "file": "chernihiv/1.1.json",
+   "updated_at": "2026-11-10T21:58:36+02:00"
+  },
+  {
+   "region": "chernihiv",
+   "region_name": "Чернігівська область",
+   "group": "1.2",
+   "file": "chernihiv/1.2.json",
+   "updated_at": "2026-11-10T21:58:36+02:00"
+  },
+  {
+   "region": "chernihiv",
+   "region_name": "Чернігівська область",
+   "group": "2.1",
+   "file": "chernihiv/2.1.json",
+   "updated_at": "2026-11-10T21:58:36+02:00"
+  },
+  {
+   "region": "chernihiv",
+   "region_name": "Чернігівська область",
+   "group": "2.2",
+   "file": "chernihiv/2.2.json",
+   "updated_at": "2026-11-10T21:58:36+02:00"
+  },
+  {
+   "region": "chernihiv",
+   "region_name": "Чернігівська область",
+   "group": "3.1",
+   "file": "chernihiv/3.1.json",
+   "updated_at": "2026-11-10T21:58:36+02:00"
+  },
+  {
+   "region": "chernihiv",
+   "region_name": "Чернігівська область",
+   "group": "3.2",
+   "file": "chernihiv/3.2.json",
+   "updated_at": "2026-11-10T21:58:36+02:00"
+  },
+  {
+   "region": "chernihiv",
+   "region_name": "Чернігівська область",
+   "group": "4.1",
+   "file": "chernihiv/4.1.json",
+   "updated_at": "2026-11-10T21:58:36+02:00"
+  },
+  {
+   "region": "chernihiv",
+   "region_name": "Чернігівська область",
+   "group": "4.2",
+   "file": "chernihiv/4.2.json",
+   "updated_at": "2026-11-10T21:58:36+02:00"
+  },
+  {
+   "region": "chernihiv",
+   "region_name": "Чернігівська область",
+   "group": "5.1",
+   "file": "chernihiv/5.1.json",
+   "updated_at": "2026-11-10T21:58:36+02:00"
+  },
+  {
+   "region": "chernihiv",
+   "region_name": "Чернігівська область",
+   "group": "5.2",
+   "file": "chernihiv/5.2.json",
+   "updated_at": "2026-11-10T21:58:36+02:00"
+  },
+  {
+   "region": "chernihiv",
+   "region_name": "Чернігівська область",
+   "group": "6.1",
+   "file": "chernihiv/6.1.json",
+   "updated_at": "2026-11-10T21:58:36+02:00"
+  },
+  {
+   "region": "chernihiv",
+   "region_name": "Чернігівська область",
+   "group": "6.2",
+   "file": "chernihiv/6.2.json",
+   "updated_at": "2026-11-10T21:58:36+02:00"
+  },
+  {
+   "region": "dnipro_cek",
+   "region_name": "Дніпро та область — ЦЕК",
+   "group": "1.1",
+   "file": "dnipro_cek/1.1.json",
+   "updated_at": "2026-11-10T23:15:31+02:00"
+  },
+  {
+   "region": "dnipro_cek",
+   "region_name": "Дніпро та область — ЦЕК",
+   "group": "1.2",
+   "file": "dnipro_cek/1.2.json",
+   "updated_at": "2026-11-10T23:15:31+02:00"
+  },
+  {
+   "region": "dnipro_cek",
+   "region_name": "Дніпро та область — ЦЕК",
+   "group": "2.1",
+   "file": "dnipro_cek/2.1.json",
+   "updated_at": "2026-11-10T23:15:31+02:00"
+  },
+  {
+   "region": "dnipro_cek",
+   "region_name": "Дніпро та область — ЦЕК",
+   "group": "2.2",
+   "file": "dnipro_cek/2.2.json",
+   "updated_at": "2026-11-10T23:15:31+02:00"
+  },
+  {
+   "region": "dnipro_cek",
+   "region_name": "Дніпро та область — ЦЕК",
+   "group": "3.1",
+   "file": "dnipro_cek/3.1.json",
+   "updated_at": "2026-11-10T23:15:31+02:00"
+  },
+  {
+   "region": "dnipro_cek",
+   "region_name": "Дніпро та область — ЦЕК",
+   "group": "3.2",
+   "file": "dnipro_cek/3.2.json",
+   "updated_at": "2026-11-10T23:15:31+02:00"
+  },
+  {
+   "region": "dnipro_cek",
+   "region_name": "Дніпро та область — ЦЕК",
+   "group": "4.1",
+   "file": "dnipro_cek/4.1.json",
+   "updated_at": "2026-11-10T23:15:31+02:00"
+  },
+  {
+   "region": "dnipro_cek",
+   "region_name": "Дніпро та область — ЦЕК",
+   "group": "4.2",
+   "file": "dnipro_cek/4.2.json",
+   "updated_at": "2026-11-10T23:15:31+02:00"
+  },
+  {
+   "region": "dnipro_cek",
+   "region_name": "Дніпро та область — ЦЕК",
+   "group": "5.1",
+   "file": "dnipro_cek/5.1.json",
+   "updated_at": "2026-11-10T23:15:31+02:00"
+  },
+  {
+   "region": "dnipro_cek",
+   "region_name": "Дніпро та область — ЦЕК",
+   "group": "5.2",
+   "file": "dnipro_cek/5.2.json",
+   "updated_at": "2026-11-10T23:15:31+02:00"
+  },
+  {
+   "region": "dnipro_cek",
+   "region_name": "Дніпро та область — ЦЕК",
+   "group": "6.1",
+   "file": "dnipro_cek/6.1.json",
+   "updated_at": "2026-11-10T23:15:31+02:00"
+  },
+  {
+   "region": "dnipro_cek",
+   "region_name": "Дніпро та область — ЦЕК",
+   "group": "6.2",
+   "file": "dnipro_cek/6.2.json",
+   "updated_at": "2026-11-10T23:15:31+02:00"
+  },
+  {
+   "region": "dnipro_dtek",
+   "region_name": "Дніпро та область — ДТЕК",
+   "group": "1.1",
+   "file": "dnipro_dtek/1.1.json",
+   "updated_at": "2026-11-11T12:21:44+02:00"
+  },
+  {
+   "region": "dnipro_dtek",
+   "region_name": "Дніпро та область — ДТЕК",
+   "group": "1.2",
+   "file": "dnipro_dtek/1.2.json",
+   "updated_at": "2026-11-11T12:21:44+02:00"
+  },
+  {
+   "region": "dnipro_dtek",
+   "region_name": "Дніпро та область — ДТЕК",
+   "group": "2.1",
+   "file": "dnipro_dtek/2.1.json",
+   "updated_at": "2026-11-11T07:16:44+02:00"
+  },
+  {
+   "region": "dnipro_dtek",
+   "region_name": "Дніпро та область — ДТЕК",
+   "group": "2.2",
+   "file": "dnipro_dtek/2.2.json",
+   "updated_at": "2026-11-11T13:06:43+02:00"
+  },
+  {
+   "region": "dnipro_dtek",
+   "region_name": "Дніпро та область — ДТЕК",
+   "group": "3.1",
+   "file": "dnipro_dtek/3.1.json",
+   "updated_at": "2026-11-11T12:21:44+02:00"
+  },
+  {
+   "region": "dnipro_dtek",
+   "region_name": "Дніпро та область — ДТЕК",
+   "group": "3.2",
+   "file": "dnipro_dtek/3.2.json",
+   "updated_at": "2026-11-11T12:21:44+02:00"
+  },
+  {
+   "region": "dnipro_dtek",
+   "region_name": "Дніпро та область — ДТЕК",
+   "group": "4.1",
+   "file": "dnipro_dtek/4.1.json",
+   "updated_at": "2026-11-11T15:42:09+02:00"
+  },
+  {
+   "region": "dnipro_dtek",
+   "region_name": "Дніпро та область — ДТЕК",
+   "group": "4.2",
+   "file": "dnipro_dtek/4.2.json",
+   "updated_at": "2026-11-11T15:42:09+02:00"
+  },
+  {
+   "region": "dnipro_dtek",
+   "region_name": "Дніпро та область — ДТЕК",
+   "group": "5.1",
+   "file": "dnipro_dtek/5.1.json",
+   "updated_at": "2026-11-11T15:42:09+02:00"
+  },
+  {
+   "region": "dnipro_dtek",
+   "region_name": "Дніпро та область — ДТЕК",
+   "group": "5.2",
+   "file": "dnipro_dtek/5.2.json",
+   "updated_at": "2026-11-11T15:42:09+02:00"
+  },
+  {
+   "region": "dnipro_dtek",
+   "region_name": "Дніпро та область — ДТЕК",
+   "group": "6.1",
+   "file": "dnipro_dtek/6.1.json",
+   "updated_at": "2026-11-11T12:21:44+02:00"
+  },
+  {
+   "region": "dnipro_dtek",
+   "region_name": "Дніпро та область — ДТЕК",
+   "group": "6.2",
+   "file": "dnipro_dtek/6.2.json",
+   "updated_at": "2026-11-11T12:21:44+02:00"
+  },
+  {
+   "region": "kharkiv",
+   "region_name": "Харківська область",
+   "group": "1.1",
+   "file": "kharkiv/1.1.json",
+   "updated_at": "2026-11-10T21:58:36+02:00"
+  },
+  {
+   "region": "kharkiv",
+   "region_name": "Харківська область",
+   "group": "1.2",
+   "file": "kharkiv/1.2.json",
+   "updated_at": "2026-11-10T21:58:36+02:00"
+  },
+  {
+   "region": "kharkiv",
+   "region_name": "Харківська область",
+   "group": "2.1",
+   "file": "kharkiv/2.1.json",
+   "updated_at": "2026-11-10T21:58:36+02:00"
+  },
+  {
+   "region": "kharkiv",
+   "region_name": "Харківська область",
+   "group": "2.2",
+   "file": "kharkiv/2.2.json",
+   "updated_at": "2026-11-10T21:58:36+02:00"
+  },
+  {
+   "region": "kharkiv",
+   "region_name": "Харківська область",
+   "group": "3.1",
+   "file": "kharkiv/3.1.json",
+   "updated_at": "2026-11-10T21:58:36+02:00"
+  },
+  {
+   "region": "kharkiv",
+   "region_name": "Харківська область",
+   "group": "3.2",
+   "file": "kharkiv/3.2.json",
+   "updated_at": "2026-11-10T21:58:36+02:00"
+  },
+  {
+   "region": "kharkiv",
+   "region_name": "Харківська область",
+   "group": "4.1",
+   "file": "kharkiv/4.1.json",
+   "updated_at": "2026-11-10T21:58:36+02:00"
+  },
+  {
+   "region": "kharkiv",
+   "region_name": "Харківська область",
+   "group": "4.2",
+   "file": "kharkiv/4.2.json",
+   "updated_at": "2026-11-10T21:58:36+02:00"
+  },
+  {
+   "region": "kharkiv",
+   "region_name": "Харківська область",
+   "group": "5.1",
+   "file": "kharkiv/5.1.json",
+   "updated_at": "2026-11-10T21:58:36+02:00"
+  },
+  {
+   "region": "kharkiv",
+   "region_name": "Харківська область",
+   "group": "5.2",
+   "file": "kharkiv/5.2.json",
+   "updated_at": "2026-11-10T21:58:36+02:00"
+  },
+  {
+   "region": "kharkiv",
+   "region_name": "Харківська область",
+   "group": "6.1",
+   "file": "kharkiv/6.1.json",
+   "updated_at": "2026-11-10T21:58:36+02:00"
+  },
+  {
+   "region": "kharkiv",
+   "region_name": "Харківська область",
+   "group": "6.2",
+   "file": "kharkiv/6.2.json",
+   "updated_at": "2026-11-10T21:58:36+02:00"
+  },
+  {
+   "region": "khmelnytskyi",
+   "region_name": "Хмельницька область",
+   "group": "1.1",
+   "file": "khmelnytskyi/1.1.json",
+   "updated_at": "2026-11-10T21:09:24+02:00"
+  },
+  {
+   "region": "khmelnytskyi",
+   "region_name": "Хмельницька область",
+   "group": "1.2",
+   "file": "khmelnytskyi/1.2.json",
+   "updated_at": "2026-11-10T21:09:24+02:00"
+  },
+  {
+   "region": "khmelnytskyi",
+   "region_name": "Хмельницька область",
+   "group": "2.1",
+   "file": "khmelnytskyi/2.1.json",
+   "updated_at": "2026-11-10T21:09:24+02:00"
+  },
+  {
+   "region": "khmelnytskyi",
+   "region_name": "Хмельницька область",
+   "group": "2.2",
+   "file": "khmelnytskyi/2.2.json",
+   "updated_at": "2026-11-10T21:09:24+02:00"
+  },
+  {
+   "region": "khmelnytskyi",
+   "region_name": "Хмельницька область",
+   "group": "3.1",
+   "file": "khmelnytskyi/3.1.json",
+   "updated_at": "2026-11-10T21:09:24+02:00"
+  },
+  {
+   "region": "khmelnytskyi",
+   "region_name": "Хмельницька область",
+   "group": "3.2",
+   "file": "khmelnytskyi/3.2.json",
+   "updated_at": "2026-11-10T21:09:24+02:00"
+  },
+  {
+   "region": "khmelnytskyi",
+   "region_name": "Хмельницька область",
+   "group": "4.1",
+   "file": "khmelnytskyi/4.1.json",
+   "updated_at": "2026-11-10T21:09:24+02:00"
+  },
+  {
+   "region": "khmelnytskyi",
+   "region_name": "Хмельницька область",
+   "group": "4.2",
+   "file": "khmelnytskyi/4.2.json",
+   "updated_at": "2026-11-10T21:09:24+02:00"
+  },
+  {
+   "region": "khmelnytskyi",
+   "region_name": "Хмельницька область",
+   "group": "5.1",
+   "file": "khmelnytskyi/5.1.json",
+   "updated_at": "2026-11-10T21:09:24+02:00"
+  },
+  {
+   "region": "khmelnytskyi",
+   "region_name": "Хмельницька область",
+   "group": "5.2",
+   "file": "khmelnytskyi/5.2.json",
+   "updated_at": "2026-11-10T21:09:24+02:00"
+  },
+  {
+   "region": "khmelnytskyi",
+   "region_name": "Хмельницька область",
+   "group": "6.1",
+   "file": "khmelnytskyi/6.1.json",
+   "updated_at": "2026-11-10T21:09:24+02:00"
+  },
+  {
+   "region": "khmelnytskyi",
+   "region_name": "Хмельницька область",
+   "group": "6.2",
+   "file": "khmelnytskyi/6.2.json",
+   "updated_at": "2026-11-10T21:09:24+02:00"
+  },
+  {
+   "region": "kyiv",
+   "region_name": "Київ",
+   "group": "1.1",
+   "file": "kyiv/1.1.json",
+   "updated_at": "2026-11-10T22:03:33+02:00"
+  },
+  {
+   "region": "kyiv",
+   "region_name": "Київ",
+   "group": "2.1",
+   "file": "kyiv/2.1.json",
+   "updated_at": "2026-11-10T22:03:33+02:00"
+  },
+  {
+   "region": "kyiv",
+   "region_name": "Київ",
+   "group": "3.1",
+   "file": "kyiv/3.1.json",
+   "updated_at": "2026-11-10T22:03:33+02:00"
+  },
+  {
+   "region": "kyiv",
+   "region_name": "Київ",
+   "group": "4.1",
+   "file": "kyiv/4.1.json",
+   "updated_at": "2026-11-10T22:03:33+02:00"
+  },
+  {
+   "region": "kyiv",
+   "region_name": "Київ",
+   "group": "5.1",
+   "file": "kyiv/5.1.json",
+   "updated_at": "2026-11-10T22:03:33+02:00"
+  },
+  {
+   "region": "kyiv",
+   "region_name": "Київ",
+   "group": "6.1",
+   "file": "kyiv/6.1.json",
+   "updated_at": "2026-11-10T22:03:33+02:00"
+  },
+  {
+   "region": "kyiv",
+   "region_name": "Київ",
+   "group": "7.1",
+   "file": "kyiv/7.1.json",
+   "updated_at": "2026-11-10T22:03:33+02:00"
+  },
+  {
+   "region": "kyiv",
+   "region_name": "Київ",
+   "group": "8.1",
+   "file": "kyiv/8.1.json",
+   "updated_at": "2026-11-10T22:03:33+02:00"
+  },
+  {
+   "region": "kyiv",
+   "region_name": "Київ",
+   "group": "9.1",
+   "file": "kyiv/9.1.json",
+   "updated_at": "2026-11-10T22:03:33+02:00"
+  },
+  {
+   "region": "kyiv",
+   "region_name": "Київ",
+   "group": "10.1",
+   "file": "kyiv/10.1.json",
+   "updated_at": "2026-11-10T22:03:33+02:00"
+  },
+  {
+   "region": "kyiv",
+   "region_name": "Київ",
+   "group": "11.1",
+   "file": "kyiv/11.1.json",
+   "updated_at": "2026-11-10T22:03:33+02:00"
+  },
+  {
+   "region": "kyiv",
+   "region_name": "Київ",
+   "group": "12.1",
+   "file": "kyiv/12.1.json",
+   "updated_at": "2026-11-10T22:03:33+02:00"
+  },
+  {
+   "region": "kyiv",
+   "region_name": "Київ",
+   "group": "13.1",
+   "file": "kyiv/13.1.json",
+   "updated_at": "2026-11-10T22:03:33+02:00"
+  },
+  {
+   "region": "kyiv",
+   "region_name": "Київ",
+   "group": "14.1",
+   "file": "kyiv/14.1.json",
+   "updated_at": "2026-11-10T22:03:33+02:00"
+  },
+  {
+   "region": "kyiv",
+   "region_name": "Київ",
+   "group": "15.1",
+   "file": "kyiv/15.1.json",
+   "updated_at": "2026-11-10T22:03:33+02:00"
+  },
+  {
+   "region": "kyiv",
+   "region_name": "Київ",
+   "group": "16.1",
+   "file": "kyiv/16.1.json",
+   "updated_at": "2026-11-10T22:03:33+02:00"
+  },
+  {
+   "region": "kyiv",
+   "region_name": "Київ",
+   "group": "17.1",
+   "file": "kyiv/17.1.json",
+   "updated_at": "2026-11-10T22:03:33+02:00"
+  },
+  {
+   "region": "kyiv",
+   "region_name": "Київ",
+   "group": "18.1",
+   "file": "kyiv/18.1.json",
+   "updated_at": "2026-11-10T22:03:33+02:00"
+  },
+  {
+   "region": "kyiv",
+   "region_name": "Київ",
+   "group": "19.1",
+   "file": "kyiv/19.1.json",
+   "updated_at": "2026-11-10T22:03:33+02:00"
+  },
+  {
+   "region": "kyiv",
+   "region_name": "Київ",
+   "group": "20.1",
+   "file": "kyiv/20.1.json",
+   "updated_at": "2026-11-10T22:03:33+02:00"
+  },
+  {
+   "region": "kyiv",
+   "region_name": "Київ",
+   "group": "21.1",
+   "file": "kyiv/21.1.json",
+   "updated_at": "2026-11-10T22:03:33+02:00"
+  },
+  {
+   "region": "kyiv",
+   "region_name": "Київ",
+   "group": "22.1",
+   "file": "kyiv/22.1.json",
+   "updated_at": "2026-11-10T22:03:33+02:00"
+  },
+  {
+   "region": "kyiv",
+   "region_name": "Київ",
+   "group": "23.1",
+   "file": "kyiv/23.1.json",
+   "updated_at": "2026-11-10T22:03:33+02:00"
+  },
+  {
+   "region": "kyiv",
+   "region_name": "Київ",
+   "group": "24.1",
+   "file": "kyiv/24.1.json",
+   "updated_at": "2026-11-10T22:03:33+02:00"
+  },
+  {
+   "region": "kyiv",
+   "region_name": "Київ",
+   "group": "25.1",
+   "file": "kyiv/25.1.json",
+   "updated_at": "2026-11-10T22:03:33+02:00"
+  },
+  {
+   "region": "kyiv",
+   "region_name": "Київ",
+   "group": "26.1",
+   "file": "kyiv/26.1.json",
+   "updated_at": "2026-11-10T22:03:33+02:00"
+  },
+  {
+   "region": "kyiv",
+   "region_name": "Київ",
+   "group": "27.1",
+   "file": "kyiv/27.1.json",
+   "updated_at": "2026-11-10T22:03:33+02:00"
+  },
+  {
+   "region": "kyiv",
+   "region_name": "Київ",
+   "group": "28.1",
+   "file": "kyiv/28.1.json",
+   "updated_at": "2026-11-10T22:03:33+02:00"
+  },
+  {
+   "region": "kyiv",
+   "region_name": "Київ",
+   "group": "29.1",
+   "file": "kyiv/29.1.json",
+   "updated_at": "2026-11-10T22:03:33+02:00"
+  },
+  {
+   "region": "kyiv",
+   "region_name": "Київ",
+   "group": "30.1",
+   "file": "kyiv/30.1.json",
+   "updated_at": "2026-11-10T22:03:33+02:00"
+  },
+  {
+   "region": "kyiv",
+   "region_name": "Київ",
+   "group": "31.1",
+   "file": "kyiv/31.1.json",
+   "updated_at": "2026-11-10T22:03:33+02:00"
+  },
+  {
+   "region": "kyiv",
+   "region_name": "Київ",
+   "group": "32.1",
+   "file": "kyiv/32.1.json",
+   "updated_at": "2026-11-10T22:03:33+02:00"
+  },
+  {
+   "region": "kyiv",
+   "region_name": "Київ",
+   "group": "33.1",
+   "file": "kyiv/33.1.json",
+   "updated_at": "2026-11-10T22:03:33+02:00"
+  },
+  {
+   "region": "kyiv",
+   "region_name": "Київ",
+   "group": "34.1",
+   "file": "kyiv/34.1.json",
+   "updated_at": "2026-11-10T22:03:33+02:00"
+  },
+  {
+   "region": "kyiv",
+   "region_name": "Київ",
+   "group": "35.1",
+   "file": "kyiv/35.1.json",
+   "updated_at": "2026-11-10T22:03:33+02:00"
+  },
+  {
+   "region": "kyiv",
+   "region_name": "Київ",
+   "group": "36.1",
+   "file": "kyiv/36.1.json",
+   "updated_at": "2026-11-10T22:03:33+02:00"
+  },
+  {
+   "region": "kyiv",
+   "region_name": "Київ",
+   "group": "37.1",
+   "file": "kyiv/37.1.json",
+   "updated_at": "2026-11-10T22:03:33+02:00"
+  },
+  {
+   "region": "kyiv",
+   "region_name": "Київ",
+   "group": "38.1",
+   "file": "kyiv/38.1.json",
+   "updated_at": "2026-11-10T22:03:33+02:00"
+  },
+  {
+   "region": "kyiv",
+   "region_name": "Київ",
+   "group": "39.1",
+   "file": "kyiv/39.1.json",
+   "updated_at": "2026-11-10T22:03:33+02:00"
+  },
+  {
+   "region": "kyiv",
+   "region_name": "Київ",
+   "group": "40.1",
+   "file": "kyiv/40.1.json",
+   "updated_at": "2026-11-10T22:03:33+02:00"
+  },
+  {
+   "region": "kyiv",
+   "region_name": "Київ",
+   "group": "41.1",
+   "file": "kyiv/41.1.json",
+   "updated_at": "2026-11-10T22:03:33+02:00"
+  },
+  {
+   "region": "kyiv",
+   "region_name": "Київ",
+   "group": "42.1",
+   "file": "kyiv/42.1.json",
+   "updated_at": "2026-11-10T22:03:33+02:00"
+  },
+  {
+   "region": "kyiv",
+   "region_name": "Київ",
+   "group": "43.1",
+   "file": "kyiv/43.1.json",
+   "updated_at": "2026-11-10T22:03:33+02:00"
+  },
+  {
+   "region": "kyiv",
+   "region_name": "Київ",
+   "group": "44.1",
+   "file": "kyiv/44.1.json",
+   "updated_at": "2026-11-10T22:03:33+02:00"
+  },
+  {
+   "region": "kyiv",
+   "region_name": "Київ",
+   "group": "45.1",
+   "file": "kyiv/45.1.json",
+   "updated_at": "2026-11-10T22:03:33+02:00"
+  },
+  {
+   "region": "kyiv",
+   "region_name": "Київ",
+   "group": "46.1",
+   "file": "kyiv/46.1.json",
+   "updated_at": "2026-11-10T22:03:33+02:00"
+  },
+  {
+   "region": "kyiv",
+   "region_name": "Київ",
+   "group": "47.1",
+   "file": "kyiv/47.1.json",
+   "updated_at": "2026-11-10T22:03:33+02:00"
+  },
+  {
+   "region": "kyiv",
+   "region_name": "Київ",
+   "group": "48.1",
+   "file": "kyiv/48.1.json",
+   "updated_at": "2026-11-10T22:03:33+02:00"
+  },
+  {
+   "region": "kyiv",
+   "region_name": "Київ",
+   "group": "49.1",
+   "file": "kyiv/49.1.json",
+   "updated_at": "2026-11-10T22:03:33+02:00"
+  },
+  {
+   "region": "kyiv",
+   "region_name": "Київ",
+   "group": "50.1",
+   "file": "kyiv/50.1.json",
+   "updated_at": "2026-11-10T22:03:33+02:00"
+  },
+  {
+   "region": "kyiv",
+   "region_name": "Київ",
+   "group": "51.1",
+   "file": "kyiv/51.1.json",
+   "updated_at": "2026-11-10T22:03:33+02:00"
+  },
+  {
+   "region": "kyiv",
+   "region_name": "Київ",
+   "group": "52.1",
+   "file": "kyiv/52.1.json",
+   "updated_at": "2026-11-10T22:03:33+02:00"
+  },
+  {
+   "region": "kyiv",
+   "region_name": "Київ",
+   "group": "53.1",
+   "file": "kyiv/53.1.json",
+   "updated_at": "2026-11-10T22:03:33+02:00"
+  },
+  {
+   "region": "kyiv",
+   "region_name": "Київ",
+   "group": "54.1",
+   "file": "kyiv/54.1.json",
+   "updated_at": "2026-11-10T22:03:33+02:00"
+  },
+  {
+   "region": "kyiv",
+   "region_name": "Київ",
+   "group": "55.1",
+   "file": "kyiv/55.1.json",
+   "updated_at": "2026-11-10T22:03:33+02:00"
+  },
+  {
+   "region": "kyiv",
+   "region_name": "Київ",
+   "group": "56.1",
+   "file": "kyiv/56.1.json",
+   "updated_at": "2026-11-10T22:03:33+02:00"
+  },
+  {
+   "region": "kyiv",
+   "region_name": "Київ",
+   "group": "57.1",
+   "file": "kyiv/57.1.json",
+   "updated_at": "2026-11-10T22:03:33+02:00"
+  },
+  {
+   "region": "kyiv",
+   "region_name": "Київ",
+   "group": "58.1",
+   "file": "kyiv/58.1.json",
+   "updated_at": "2026-11-10T22:03:33+02:00"
+  },
+  {
+   "region": "kyiv",
+   "region_name": "Київ",
+   "group": "59.1",
+   "file": "kyiv/59.1.json",
+   "updated_at": "2026-11-10T22:03:33+02:00"
+  },
+  {
+   "region": "kyiv",
+   "region_name": "Київ",
+   "group": "60.1",
+   "file": "kyiv/60.1.json",
+   "updated_at": "2026-11-10T22:03:33+02:00"
+  },
+  {
+   "region": "kyiv_oblast",
+   "region_name": "Київська область",
+   "group": "1.1",
+   "file": "kyiv_oblast/1.1.json",
+   "updated_at": "2026-11-10T22:13:32+02:00"
+  },
+  {
+   "region": "kyiv_oblast",
+   "region_name": "Київська область",
+   "group": "1.2",
+   "file": "kyiv_oblast/1.2.json",
+   "updated_at": "2026-11-11T09:56:43+02:00"
+  },
+  {
+   "region": "kyiv_oblast",
+   "region_name": "Київська область",
+   "group": "2.1",
+   "file": "kyiv_oblast/2.1.json",
+   "updated_at": "2026-11-11T09:56:43+02:00"
+  },
+  {
+   "region": "kyiv_oblast",
+   "region_name": "Київська область",
+   "group": "2.2",
+   "file": "kyiv_oblast/2.2.json",
+   "updated_at": "2026-11-11T11:51:44+02:00"
+  },
+  {
+   "region": "kyiv_oblast",
+   "region_name": "Київська область",
+   "group": "3.1",
+   "file": "kyiv_oblast/3.1.json",
+   "updated_at": "2026-11-10T22:13:32+02:00"
+  },
+  {
+   "region": "kyiv_oblast",
+   "region_name": "Київська область",
+   "group": "3.2",
+   "file": "kyiv_oblast/3.2.json",
+   "updated_at": "2026-11-11T02:26:43+02:00"
+  },
+  {
+   "region": "kyiv_oblast",
+   "region_name": "Київська область",
+   "group": "4.1",
+   "file": "kyiv_oblast/4.1.json",
+   "updated_at": "2026-11-11T11:51:44+02:00"
+  },
+  {
+   "region": "kyiv_oblast",
+   "region_name": "Київська область",
+   "group": "4.2",
+   "file": "kyiv_oblast/4.2.json",
+   "updated_at": "2026-11-10T22:13:32+02:00"
+  },
+  {
+   "region": "kyiv_oblast",
+   "region_name": "Київська область",
+   "group": "5.1",
+   "file": "kyiv_oblast/5.1.json",
+   "updated_at": "2026-11-10T22:13:32+02:00"
+  },
+  {
+   "region": "kyiv_oblast",
+   "region_name": "Київська область",
+   "group": "5.2",
+   "file": "kyiv_oblast/5.2.json",
+   "updated_at": "2026-11-11T02:26:43+02:00"
+  },
+  {
+   "region": "kyiv_oblast",
+   "region_name": "Київська область",
+   "group": "6.1",
+   "file": "kyiv_oblast/6.1.json",
+   "updated_at": "2026-11-11T02:26:43+02:00"
+  },
+  {
+   "region": "kyiv_oblast",
+   "region_name": "Київська область",
+   "group": "6.2",
+   "file": "kyiv_oblast/6.2.json",
+   "updated_at": "2026-11-10T21:58:36+02:00"
+  },
+  {
+   "region": "odesa",
+   "region_name": "Одеса та область",
+   "group": "1.1",
+   "file": "odesa/1.1.json",
+   "updated_at": "2026-11-11T15:36:43+02:00"
+  },
+  {
+   "region": "odesa",
+   "region_name": "Одеса та область",
+   "group": "1.2",
+   "file": "odesa/1.2.json",
+   "updated_at": "2026-11-11T15:36:43+02:00"
+  },
+  {
+   "region": "odesa",
+   "region_name": "Одеса та область",
+   "group": "2.1",
+   "file": "odesa/2.1.json",
+   "updated_at": "2026-11-11T15:36:43+02:00"
+  },
+  {
+   "region": "odesa",
+   "region_name": "Одеса та область",
+   "group": "2.2",
+   "file": "odesa/2.2.json",
+   "updated_at": "2026-11-11T15:36:43+02:00"
+  },
+  {
+   "region": "odesa",
+   "region_name": "Одеса та область",
+   "group": "3.1",
+   "file": "odesa/3.1.json",
+   "updated_at": "2026-11-11T09:16:47+02:00"
+  },
+  {
+   "region": "odesa",
+   "region_name": "Одеса та область",
+   "group": "3.2",
+   "file": "odesa/3.2.json",
+   "updated_at": "2026-11-11T09:16:47+02:00"
+  },
+  {
+   "region": "odesa",
+   "region_name": "Одеса та область",
+   "group": "4.1",
+   "file": "odesa/4.1.json",
+   "updated_at": "2026-11-11T15:36:43+02:00"
+  },
+  {
+   "region": "odesa",
+   "region_name": "Одеса та область",
+   "group": "4.2",
+   "file": "odesa/4.2.json",
+   "updated_at": "2026-11-11T15:36:43+02:00"
+  },
+  {
+   "region": "odesa",
+   "region_name": "Одеса та область",
+   "group": "5.1",
+   "file": "odesa/5.1.json",
+   "updated_at": "2026-11-11T15:36:43+02:00"
+  },
+  {
+   "region": "odesa",
+   "region_name": "Одеса та область",
+   "group": "5.2",
+   "file": "odesa/5.2.json",
+   "updated_at": "2026-11-11T09:16:47+02:00"
+  },
+  {
+   "region": "odesa",
+   "region_name": "Одеса та область",
+   "group": "6.1",
+   "file": "odesa/6.1.json",
+   "updated_at": "2026-11-11T13:01:48+02:00"
+  },
+  {
+   "region": "odesa",
+   "region_name": "Одеса та область",
+   "group": "6.2",
+   "file": "odesa/6.2.json",
+   "updated_at": "2026-11-11T09:16:47+02:00"
+  },
+  {
+   "region": "poltava",
+   "region_name": "Полтавська область",
+   "group": "1.1",
+   "file": "poltava/1.1.json",
+   "updated_at": "2026-11-11T11:11:47+02:00"
+  },
+  {
+   "region": "poltava",
+   "region_name": "Полтавська область",
+   "group": "1.2",
+   "file": "poltava/1.2.json",
+   "updated_at": "2026-11-11T13:51:47+02:00"
+  },
+  {
+   "region": "poltava",
+   "region_name": "Полтавська область",
+   "group": "2.1",
+   "file": "poltava/2.1.json",
+   "updated_at": "2026-11-11T13:51:47+02:00"
+  },
+  {
+   "region": "poltava",
+   "region_name": "Полтавська область",
+   "group": "2.2",
+   "file": "poltava/2.2.json",
+   "updated_at": "2026-11-11T13:51:47+02:00"
+  },
+  {
+   "region": "poltava",
+   "region_name": "Полтавська область",
+   "group": "3.1",
+   "file": "poltava/3.1.json",
+   "updated_at": "2026-11-11T13:51:47+02:00"
+  },
+  {
+   "region": "poltava",
+   "region_name": "Полтавська область",
+   "group": "3.2",
+   "file": "poltava/3.2.json",
+   "updated_at": "2026-11-11T13:51:47+02:00"
+  },
+  {
+   "region": "poltava",
+   "region_name": "Полтавська область",
+   "group": "4.1",
+   "file": "poltava/4.1.json",
+   "updated_at": "2026-11-11T09:16:47+02:00"
+  },
+  {
+   "region": "poltava",
+   "region_name": "Полтавська область",
+   "group": "4.2",
+   "file": "poltava/4.2.json",
+   "updated_at": "2026-11-11T13:51:47+02:00"
+  },
+  {
+   "region": "poltava",
+   "region_name": "Полтавська область",
+   "group": "5.1",
+   "file": "poltava/5.1.json",
+   "updated_at": "2026-11-11T11:11:47+02:00"
+  },
+  {
+   "region": "poltava",
+   "region_name": "Полтавська область",
+   "group": "5.2",
+   "file": "poltava/5.2.json",
+   "updated_at": "2026-11-11T11:11:47+02:00"
+  },
+  {
+   "region": "poltava",
+   "region_name": "Полтавська область",
+   "group": "6.1",
+   "file": "poltava/6.1.json",
+   "updated_at": "2026-11-11T11:11:47+02:00"
+  },
+  {
+   "region": "poltava",
+   "region_name": "Полтавська область",
+   "group": "6.2",
+   "file": "poltava/6.2.json",
+   "updated_at": "2026-11-11T13:51:47+02:00"
+  },
+  {
+   "region": "vinnytsia",
+   "region_name": "Вінницька область",
+   "group": "1.1",
+   "file": "vinnytsia/1.1.json",
+   "updated_at": "2026-11-11T15:26:43+02:00"
+  },
+  {
+   "region": "vinnytsia",
+   "region_name": "Вінницька область",
+   "group": "1.2",
+   "file": "vinnytsia/1.2.json",
+   "updated_at": "2026-11-11T15:26:43+02:00"
+  },
+  {
+   "region": "vinnytsia",
+   "region_name": "Вінницька область",
+   "group": "2.1",
+   "file": "vinnytsia/2.1.json",
+   "updated_at": "2026-11-11T09:31:43+02:00"
+  },
+  {
+   "region": "vinnytsia",
+   "region_name": "Вінницька область",
+   "group": "2.2",
+   "file": "vinnytsia/2.2.json",
+   "updated_at": "2026-11-11T06:56:43+02:00"
+  },
+  {
+   "region": "vinnytsia",
+   "region_name": "Вінницька область",
+   "group": "3.1",
+   "file": "vinnytsia/3.1.json",
+   "updated_at": "2026-11-11T09:06:43+02:00"
+  },
+  {
+   "region": "vinnytsia",
+   "region_name": "Вінницька область",
+   "group": "3.2",
+   "file": "vinnytsia/3.2.json",
+   "updated_at": "2026-11-11T09:31:43+02:00"
+  },
+  {
+   "region": "vinnytsia",
+   "region_name": "Вінницька область",
+   "group": "4.1",
+   "file": "vinnytsia/4.1.json",
+   "updated_at": "2026-11-11T09:06:43+02:00"
+  },
+  {
+   "region": "vinnytsia",
+   "region_name": "Вінницька область",
+   "group": "4.2",
+   "file": "vinnytsia/4.2.json",
+   "updated_at": "2026-11-11T09:06:43+02:00"
+  },
+  {
+   "region": "vinnytsia",
+   "region_name": "Вінницька область",
+   "group": "5.1",
+   "file": "vinnytsia/5.1.json",
+   "updated_at": "2026-11-11T12:56:43+02:00"
+  },
+  {
+   "region": "vinnytsia",
+   "region_name": "Вінницька область",
+   "group": "5.2",
+   "file": "vinnytsia/5.2.json",
+   "updated_at": "2026-11-11T12:56:43+02:00"
+  },
+  {
+   "region": "vinnytsia",
+   "region_name": "Вінницька область",
+   "group": "6.1",
+   "file": "vinnytsia/6.1.json",
+   "updated_at": "2026-11-11T12:56:43+02:00"
+  },
+  {
+   "region": "vinnytsia",
+   "region_name": "Вінницька область",
+   "group": "6.2",
+   "file": "vinnytsia/6.2.json",
+   "updated_at": "2026-11-11T12:56:43+02:00"
+  },
+  {
+   "region": "zaporizhzhia",
+   "region_name": "Запорізька область",
+   "group": "1.1",
+   "file": "zaporizhzhia/1.1.json",
+   "updated_at": "2026-11-11T13:01:48+02:00"
+  },
+  {
+   "region": "zaporizhzhia",
+   "region_name": "Запорізька область",
+   "group": "1.2",
+   "file": "zaporizhzhia/1.2.json",
+   "updated_at": "2026-11-11T10:11:47+02:00"
+  },
+  {
+   "region": "zaporizhzhia",
+   "region_name": "Запорізька область",
+   "group": "2.1",
+   "file": "zaporizhzhia/2.1.json",
+   "updated_at": "2026-11-11T13:01:48+02:00"
+  },
+  {
+   "region": "zaporizhzhia",
+   "region_name": "Запорізька область",
+   "group": "2.2",
+   "file": "zaporizhzhia/2.2.json",
+   "updated_at": "2026-11-11T13:01:48+02:00"
+  },
+  {
+   "region": "zaporizhzhia",
+   "region_name": "Запорізька область",
+   "group": "3.1",
+   "file": "zaporizhzhia/3.1.json",
+   "updated_at": "2026-11-11T12:11:47+02:00"
+  },
+  {
+   "region": "zaporizhzhia",
+   "region_name": "Запорізька область",
+   "group": "3.2",
+   "file": "zaporizhzhia/3.2.json",
+   "updated_at": "2026-11-11T10:11:47+02:00"
+  },
+  {
+   "region": "zaporizhzhia",
+   "region_name": "Запорізька область",
+   "group": "4.1",
+   "file": "zaporizhzhia/4.1.json",
+   "updated_at": "2026-11-11T13:01:48+02:00"
+  },
+  {
+   "region": "zaporizhzhia",
+   "region_name": "Запорізька область",
+   "group": "4.2",
+   "file": "zaporizhzhia/4.2.json",
+   "updated_at": "2026-11-11T13:01:48+02:00"
+  },
+  {
+   "region": "zaporizhzhia",
+   "region_name": "Запорізька область",
+   "group": "5.1",
+   "file": "zaporizhzhia/5.1.json",
+   "updated_at": "2026-11-11T13:01:48+02:00"
+  },
+  {
+   "region": "zaporizhzhia",
+   "region_name": "Запорізька область",
+   "group": "5.2",
+   "file": "zaporizhzhia/5.2.json",
+   "updated_at": "2026-11-11T12:06:47+02:00"
+  },
+  {
+   "region": "zaporizhzhia",
+   "region_name": "Запорізька область",
+   "group": "6.1",
+   "file": "zaporizhzhia/6.1.json",
+   "updated_at": "2026-11-11T12:06:47+02:00"
+  },
+  {
+   "region": "zaporizhzhia",
+   "region_name": "Запорізька область",
+   "group": "6.2",
+   "file": "zaporizhzhia/6.2.json",
+   "updated_at": "2026-11-11T13:01:48+02:00"
+  },
+  {
+   "region": "zhytomyr",
+   "region_name": "Житомирська область",
+   "group": "1.1",
+   "file": "zhytomyr/1.1.json",
+   "updated_at": "2026-11-11T10:11:47+02:00"
+  },
+  {
+   "region": "zhytomyr",
+   "region_name": "Житомирська область",
+   "group": "1.2",
+   "file": "zhytomyr/1.2.json",
+   "updated_at": "2026-11-11T10:11:47+02:00"
+  },
+  {
+   "region": "zhytomyr",
+   "region_name": "Житомирська область",
+   "group": "2.1",
+   "file": "zhytomyr/2.1.json",
+   "updated_at": "2026-11-11T10:11:47+02:00"
+  },
+  {
+   "region": "zhytomyr",
+   "region_name": "Житомирська область",
+   "group": "2.2",
+   "file": "zhytomyr/2.2.json",
+   "updated_at": "2026-11-11T10:11:47+02:00"
+  },
+  {
+   "region": "zhytomyr",
+   "region_name": "Житомирська область",
+   "group": "3.1",
+   "file": "zhytomyr/3.1.json",
+   "updated_at": "2026-11-11T10:11:47+02:00"
+  },
+  {
+   "region": "zhytomyr",
+   "region_name": "Житомирська область",
+   "group": "3.2",
+   "file": "zhytomyr/3.2.json",
+   "updated_at": "2026-11-11T10:11:47+02:00"
+  },
+  {
+   "region": "zhytomyr",
+   "region_name": "Житомирська область",
+   "group": "4.1",
+   "file": "zhytomyr/4.1.json",
+   "updated_at": "2026-11-11T10:11:47+02:00"
+  },
+  {
+   "region": "zhytomyr",
+   "region_name": "Житомирська область",
+   "group": "4.2",
+   "file": "zhytomyr/4.2.json",
+   "updated_at": "2026-11-11T10:11:47+02:00"
+  },
+  {
+   "region": "zhytomyr",
+   "region_name": "Житомирська область",
+   "group": "5.1",
+   "file": "zhytomyr/5.1.json",
+   "updated_at": "2026-11-11T10:11:47+02:00"
+  },
+  {
+   "region": "zhytomyr",
+   "region_name": "Житомирська область",
+   "group": "5.2",
+   "file": "zhytomyr/5.2.json",
+   "updated_at": "2026-11-11T10:11:47+02:00"
+  },
+  {
+   "region": "zhytomyr",
+   "region_name": "Житомирська область",
+   "group": "6.1",
+   "file": "zhytomyr/6.1.json",
+   "updated_at": "2026-11-11T10:11:47+02:00"
+  },
+  {
+   "region": "zhytomyr",
+   "region_name": "Житомирська область",
+   "group": "6.2",
+   "file": "zhytomyr/6.2.json",
+   "updated_at": "2026-11-11T10:11:47+02:00"
+  }
+ ]
+}
