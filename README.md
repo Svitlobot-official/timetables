@@ -59,6 +59,15 @@
 
 ## Джерела
 
-Графіки збираються з відкритих джерел обленерго, зокрема
-[outage-data-ua](https://github.com/Baskerville42/outage-data-ua). Картинки графіків
-на сьогодні-завтра — там само.
+Графіки не наші — ми збираємо їх з відкритих репозиторіїв, які парсять сайти обленерго.
+Дякуємо їхнім авторам:
+
+- [Baskerville42/outage-data-ua](https://github.com/Baskerville42/outage-data-ua) —
+  Київ, Київська область, Одеса, Дніпро (ДТЕК);
+- [yaroslav2901/OE_OUTAGE_DATA](https://github.com/yaroslav2901/OE_OUTAGE_DATA) —
+  Черкаська, Чернігівська, Харківська, Хмельницька, Полтавська, Запорізька, Житомирська області;
+- [szheliab/DNIPRO_CEK_PARSER](https://github.com/szheliab/DNIPRO_CEK_PARSER) — Дніпро (ЦЕК);
+- [vn-progr/gpv-voe-vinnytsia](https://github.com/vn-progr/gpv-voe-vinnytsia) — Вінницька область.
+
+Цей репозиторій додає до них тиждень наростаючим підсумком (минулі дні лишаються
+такими, якими були), архів тижнів і картинки тижня.
