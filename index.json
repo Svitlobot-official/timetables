@@ -385,7 +385,7 @@
    "file": "dnipro_dtek/3.2.json",
    "image": "https://api.svitlobot.in.ua/timetables/dnipro_dtek/3.2.png",
    "image_today": "https://api.svitlobot.in.ua/timetables/dnipro_dtek/3.2/today.png",
-   "updated_at": "2026-11-13T14:37:10+02:00"
+   "updated_at": "2026-11-13T22:12:12+02:00"
   },
   {
    "region": "dnipro_dtek",
@@ -430,7 +430,7 @@
    "file": "dnipro_dtek/6.1.json",
    "image": "https://api.svitlobot.in.ua/timetables/dnipro_dtek/6.1.png",
    "image_today": "https://api.svitlobot.in.ua/timetables/dnipro_dtek/6.1/today.png",
-   "updated_at": "2026-11-13T14:37:10+02:00"
+   "updated_at": "2026-11-13T22:12:12+02:00"
   },
   {
    "region": "dnipro_dtek",
