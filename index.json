@@ -268,7 +268,7 @@
    "file": "dnipro_cek/3.1.json",
    "image": "https://api.svitlobot.in.ua/timetables/dnipro_cek/3.1.png",
    "image_today": "https://api.svitlobot.in.ua/timetables/dnipro_cek/3.1/today.png",
-   "updated_at": "2026-11-13T01:01:47+02:00"
+   "updated_at": "2026-11-13T08:06:43+02:00"
   },
   {
    "region": "dnipro_cek",
@@ -277,7 +277,7 @@
    "file": "dnipro_cek/3.2.json",
    "image": "https://api.svitlobot.in.ua/timetables/dnipro_cek/3.2.png",
    "image_today": "https://api.svitlobot.in.ua/timetables/dnipro_cek/3.2/today.png",
-   "updated_at": "2026-11-13T01:01:47+02:00"
+   "updated_at": "2026-11-13T08:06:43+02:00"
   },
   {
    "region": "dnipro_cek",
@@ -1645,7 +1645,7 @@
    "file": "zaporizhzhia/1.2.json",
    "image": "https://api.svitlobot.in.ua/timetables/zaporizhzhia/1.2.png",
    "image_today": "https://api.svitlobot.in.ua/timetables/zaporizhzhia/1.2/today.png",
-   "updated_at": "2026-11-13T07:11:47+02:00"
+   "updated_at": "2026-11-13T08:01:47+02:00"
   },
   {
    "region": "zaporizhzhia",
@@ -1672,7 +1672,7 @@
    "file": "zaporizhzhia/3.1.json",
    "image": "https://api.svitlobot.in.ua/timetables/zaporizhzhia/3.1.png",
    "image_today": "https://api.svitlobot.in.ua/timetables/zaporizhzhia/3.1/today.png",
-   "updated_at": "2026-11-13T07:11:47+02:00"
+   "updated_at": "2026-11-13T08:01:47+02:00"
   },
   {
    "region": "zaporizhzhia",
@@ -1708,7 +1708,7 @@
    "file": "zaporizhzhia/5.1.json",
    "image": "https://api.svitlobot.in.ua/timetables/zaporizhzhia/5.1.png",
    "image_today": "https://api.svitlobot.in.ua/timetables/zaporizhzhia/5.1/today.png",
-   "updated_at": "2026-11-13T07:11:47+02:00"
+   "updated_at": "2026-11-13T08:01:47+02:00"
   },
   {
    "region": "zaporizhzhia",
@@ -1735,7 +1735,7 @@
    "file": "zaporizhzhia/6.2.json",
    "image": "https://api.svitlobot.in.ua/timetables/zaporizhzhia/6.2.png",
    "image_today": "https://api.svitlobot.in.ua/timetables/zaporizhzhia/6.2/today.png",
-   "updated_at": "2026-11-13T07:11:47+02:00"
+   "updated_at": "2026-11-13T08:01:47+02:00"
   },
   {
    "region": "zhytomyr",
