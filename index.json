@@ -1420,7 +1420,7 @@
    "file": "poltava/1.1.json",
    "image": "https://api.svitlobot.in.ua/timetables/poltava/1.1.png",
    "image_today": "https://api.svitlobot.in.ua/timetables/poltava/1.1/today.png",
-   "updated_at": "2026-11-14T08:57:37+02:00"
+   "updated_at": "2026-11-14T09:27:38+02:00"
   },
   {
    "region": "poltava",
@@ -1429,7 +1429,7 @@
    "file": "poltava/1.2.json",
    "image": "https://api.svitlobot.in.ua/timetables/poltava/1.2.png",
    "image_today": "https://api.svitlobot.in.ua/timetables/poltava/1.2/today.png",
-   "updated_at": "2026-11-14T08:57:37+02:00"
+   "updated_at": "2026-11-14T09:27:38+02:00"
   },
   {
    "region": "poltava",
@@ -1438,7 +1438,7 @@
    "file": "poltava/2.1.json",
    "image": "https://api.svitlobot.in.ua/timetables/poltava/2.1.png",
    "image_today": "https://api.svitlobot.in.ua/timetables/poltava/2.1/today.png",
-   "updated_at": "2026-11-14T08:57:37+02:00"
+   "updated_at": "2026-11-14T09:27:38+02:00"
   },
   {
    "region": "poltava",
@@ -1447,7 +1447,7 @@
    "file": "poltava/2.2.json",
    "image": "https://api.svitlobot.in.ua/timetables/poltava/2.2.png",
    "image_today": "https://api.svitlobot.in.ua/timetables/poltava/2.2/today.png",
-   "updated_at": "2026-11-14T01:01:49+02:00"
+   "updated_at": "2026-11-14T09:27:38+02:00"
   },
   {
    "region": "poltava",
@@ -1519,7 +1519,7 @@
    "file": "poltava/6.2.json",
    "image": "https://api.svitlobot.in.ua/timetables/poltava/6.2.png",
    "image_today": "https://api.svitlobot.in.ua/timetables/poltava/6.2/today.png",
-   "updated_at": "2026-11-14T08:57:37+02:00"
+   "updated_at": "2026-11-14T09:27:38+02:00"
   },
   {
    "region": "vinnytsia",
@@ -1636,7 +1636,7 @@
    "file": "zaporizhzhia/1.1.json",
    "image": "https://api.svitlobot.in.ua/timetables/zaporizhzhia/1.1.png",
    "image_today": "https://api.svitlobot.in.ua/timetables/zaporizhzhia/1.1/today.png",
-   "updated_at": "2026-11-13T21:32:14+02:00"
+   "updated_at": "2026-11-14T09:32:39+02:00"
   },
   {
    "region": "zaporizhzhia",
@@ -1681,7 +1681,7 @@
    "file": "zaporizhzhia/3.2.json",
    "image": "https://api.svitlobot.in.ua/timetables/zaporizhzhia/3.2.png",
    "image_today": "https://api.svitlobot.in.ua/timetables/zaporizhzhia/3.2/today.png",
-   "updated_at": "2026-11-14T08:07:37+02:00"
+   "updated_at": "2026-11-14T09:32:39+02:00"
   },
   {
    "region": "zaporizhzhia",
@@ -1699,7 +1699,7 @@
    "file": "zaporizhzhia/4.2.json",
    "image": "https://api.svitlobot.in.ua/timetables/zaporizhzhia/4.2.png",
    "image_today": "https://api.svitlobot.in.ua/timetables/zaporizhzhia/4.2/today.png",
-   "updated_at": "2026-11-14T05:36:48+02:00"
+   "updated_at": "2026-11-14T09:32:39+02:00"
   },
   {
    "region": "zaporizhzhia",
@@ -1708,7 +1708,7 @@
    "file": "zaporizhzhia/5.1.json",
    "image": "https://api.svitlobot.in.ua/timetables/zaporizhzhia/5.1.png",
    "image_today": "https://api.svitlobot.in.ua/timetables/zaporizhzhia/5.1/today.png",
-   "updated_at": "2026-11-14T05:36:48+02:00"
+   "updated_at": "2026-11-14T09:32:39+02:00"
   },
   {
    "region": "zaporizhzhia",
