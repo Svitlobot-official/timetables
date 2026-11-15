@@ -1528,7 +1528,7 @@
    "file": "vinnytsia/1.1.json",
    "image": "https://api.svitlobot.in.ua/timetables/vinnytsia/1.1.png",
    "image_today": "https://api.svitlobot.in.ua/timetables/vinnytsia/1.1/today.png",
-   "updated_at": "2026-11-15T20:16:22+02:00"
+   "updated_at": "2026-11-15T23:22:49+02:00"
   },
   {
    "region": "vinnytsia",
@@ -1537,7 +1537,7 @@
    "file": "vinnytsia/1.2.json",
    "image": "https://api.svitlobot.in.ua/timetables/vinnytsia/1.2.png",
    "image_today": "https://api.svitlobot.in.ua/timetables/vinnytsia/1.2/today.png",
-   "updated_at": "2026-11-15T20:16:22+02:00"
+   "updated_at": "2026-11-15T23:22:49+02:00"
   },
   {
    "region": "vinnytsia",
@@ -1564,7 +1564,7 @@
    "file": "vinnytsia/3.1.json",
    "image": "https://api.svitlobot.in.ua/timetables/vinnytsia/3.1.png",
    "image_today": "https://api.svitlobot.in.ua/timetables/vinnytsia/3.1/today.png",
-   "updated_at": "2026-11-15T20:16:23+02:00"
+   "updated_at": "2026-11-15T23:22:49+02:00"
   },
   {
    "region": "vinnytsia",
@@ -1591,7 +1591,7 @@
    "file": "vinnytsia/4.2.json",
    "image": "https://api.svitlobot.in.ua/timetables/vinnytsia/4.2.png",
    "image_today": "https://api.svitlobot.in.ua/timetables/vinnytsia/4.2/today.png",
-   "updated_at": "2026-11-15T22:30:08+02:00"
+   "updated_at": "2026-11-15T23:22:49+02:00"
   },
   {
    "region": "vinnytsia",
@@ -1618,7 +1618,7 @@
    "file": "vinnytsia/6.1.json",
    "image": "https://api.svitlobot.in.ua/timetables/vinnytsia/6.1.png",
    "image_today": "https://api.svitlobot.in.ua/timetables/vinnytsia/6.1/today.png",
-   "updated_at": "2026-11-15T20:11:19+02:00"
+   "updated_at": "2026-11-15T23:22:49+02:00"
   },
   {
    "region": "vinnytsia",
@@ -1627,7 +1627,7 @@
    "file": "vinnytsia/6.2.json",
    "image": "https://api.svitlobot.in.ua/timetables/vinnytsia/6.2.png",
    "image_today": "https://api.svitlobot.in.ua/timetables/vinnytsia/6.2/today.png",
-   "updated_at": "2026-11-15T20:11:19+02:00"
+   "updated_at": "2026-11-15T23:22:49+02:00"
   },
   {
    "region": "zaporizhzhia",
