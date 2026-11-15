@@ -1,0 +1,56 @@
+{
+ "region": "zaporizhzhia",
+ "region_name": "Запорізька область",
+ "group": "3.2",
+ "week_start": "2026-11-16",
+ "updated_at": "2026-11-15T23:37:52+02:00",
+ "source_updated_at": "2026-11-15T23:36:46+02:00",
+ "days": [
+  {
+   "date": "2026-11-16",
+   "weekday": "Понеділок",
+   "slots": [1, 1, 1, 0, 0, 3, 1, 1, 1, 1, 2, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 0, 0, 0],
+   "outages": [
+    ["00:00", "03:00"],
+    ["05:30", "10:30"],
+    ["16:00", "21:00"]
+   ]
+  },
+  {
+   "date": "2026-11-17",
+   "weekday": "Вівторок",
+   "slots": null,
+   "outages": null
+  },
+  {
+   "date": "2026-11-18",
+   "weekday": "Середа",
+   "slots": null,
+   "outages": null
+  },
+  {
+   "date": "2026-11-19",
+   "weekday": "Четвер",
+   "slots": null,
+   "outages": null
+  },
+  {
+   "date": "2026-11-20",
+   "weekday": "П’ятниця",
+   "slots": null,
+   "outages": null
+  },
+  {
+   "date": "2026-11-21",
+   "weekday": "Субота",
+   "slots": null,
+   "outages": null
+  },
+  {
+   "date": "2026-11-22",
+   "weekday": "Неділя",
+   "slots": null,
+   "outages": null
+  }
+ ]
+}
