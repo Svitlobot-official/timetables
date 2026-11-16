@@ -1321,7 +1321,7 @@
    "file": "odesa/1.2.json",
    "image": "https://api.svitlobot.in.ua/timetables/odesa/1.2.png",
    "image_today": "https://api.svitlobot.in.ua/timetables/odesa/1.2/today.png",
-   "updated_at": "2026-11-16T04:01:52+02:00"
+   "updated_at": "2026-11-16T04:11:47+02:00"
   },
   {
    "region": "odesa",
@@ -1330,7 +1330,7 @@
    "file": "odesa/2.1.json",
    "image": "https://api.svitlobot.in.ua/timetables/odesa/2.1.png",
    "image_today": "https://api.svitlobot.in.ua/timetables/odesa/2.1/today.png",
-   "updated_at": "2026-11-16T04:01:52+02:00"
+   "updated_at": "2026-11-16T04:11:47+02:00"
   },
   {
    "region": "odesa",
