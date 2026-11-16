@@ -448,7 +448,7 @@
    "file": "kharkiv/1.1.json",
    "image": "https://api.svitlobot.in.ua/timetables/kharkiv/1.1.png",
    "image_today": "https://api.svitlobot.in.ua/timetables/kharkiv/1.1/today.png",
-   "updated_at": "2026-11-16T04:01:52+02:00"
+   "updated_at": "2026-11-16T23:11:06+02:00"
   },
   {
    "region": "kharkiv",
@@ -457,7 +457,7 @@
    "file": "kharkiv/1.2.json",
    "image": "https://api.svitlobot.in.ua/timetables/kharkiv/1.2.png",
    "image_today": "https://api.svitlobot.in.ua/timetables/kharkiv/1.2/today.png",
-   "updated_at": "2026-11-16T04:01:52+02:00"
+   "updated_at": "2026-11-16T23:11:06+02:00"
   },
   {
    "region": "kharkiv",
@@ -466,7 +466,7 @@
    "file": "kharkiv/2.1.json",
    "image": "https://api.svitlobot.in.ua/timetables/kharkiv/2.1.png",
    "image_today": "https://api.svitlobot.in.ua/timetables/kharkiv/2.1/today.png",
-   "updated_at": "2026-11-16T04:01:52+02:00"
+   "updated_at": "2026-11-16T23:11:06+02:00"
   },
   {
    "region": "kharkiv",
@@ -475,7 +475,7 @@
    "file": "kharkiv/2.2.json",
    "image": "https://api.svitlobot.in.ua/timetables/kharkiv/2.2.png",
    "image_today": "https://api.svitlobot.in.ua/timetables/kharkiv/2.2/today.png",
-   "updated_at": "2026-11-16T04:01:52+02:00"
+   "updated_at": "2026-11-16T23:11:06+02:00"
   },
   {
    "region": "kharkiv",
@@ -484,7 +484,7 @@
    "file": "kharkiv/3.1.json",
    "image": "https://api.svitlobot.in.ua/timetables/kharkiv/3.1.png",
    "image_today": "https://api.svitlobot.in.ua/timetables/kharkiv/3.1/today.png",
-   "updated_at": "2026-11-16T04:01:52+02:00"
+   "updated_at": "2026-11-16T23:11:06+02:00"
   },
   {
    "region": "kharkiv",
@@ -493,7 +493,7 @@
    "file": "kharkiv/3.2.json",
    "image": "https://api.svitlobot.in.ua/timetables/kharkiv/3.2.png",
    "image_today": "https://api.svitlobot.in.ua/timetables/kharkiv/3.2/today.png",
-   "updated_at": "2026-11-16T04:01:52+02:00"
+   "updated_at": "2026-11-16T23:11:06+02:00"
   },
   {
    "region": "kharkiv",
@@ -502,7 +502,7 @@
    "file": "kharkiv/4.1.json",
    "image": "https://api.svitlobot.in.ua/timetables/kharkiv/4.1.png",
    "image_today": "https://api.svitlobot.in.ua/timetables/kharkiv/4.1/today.png",
-   "updated_at": "2026-11-16T04:01:52+02:00"
+   "updated_at": "2026-11-16T23:11:06+02:00"
   },
   {
    "region": "kharkiv",
@@ -511,7 +511,7 @@
    "file": "kharkiv/4.2.json",
    "image": "https://api.svitlobot.in.ua/timetables/kharkiv/4.2.png",
    "image_today": "https://api.svitlobot.in.ua/timetables/kharkiv/4.2/today.png",
-   "updated_at": "2026-11-16T04:01:52+02:00"
+   "updated_at": "2026-11-16T23:11:06+02:00"
   },
   {
    "region": "kharkiv",
@@ -520,7 +520,7 @@
    "file": "kharkiv/5.1.json",
    "image": "https://api.svitlobot.in.ua/timetables/kharkiv/5.1.png",
    "image_today": "https://api.svitlobot.in.ua/timetables/kharkiv/5.1/today.png",
-   "updated_at": "2026-11-16T04:01:52+02:00"
+   "updated_at": "2026-11-16T23:11:06+02:00"
   },
   {
    "region": "kharkiv",
@@ -529,7 +529,7 @@
    "file": "kharkiv/5.2.json",
    "image": "https://api.svitlobot.in.ua/timetables/kharkiv/5.2.png",
    "image_today": "https://api.svitlobot.in.ua/timetables/kharkiv/5.2/today.png",
-   "updated_at": "2026-11-16T04:01:52+02:00"
+   "updated_at": "2026-11-16T23:11:06+02:00"
   },
   {
    "region": "kharkiv",
@@ -538,7 +538,7 @@
    "file": "kharkiv/6.1.json",
    "image": "https://api.svitlobot.in.ua/timetables/kharkiv/6.1.png",
    "image_today": "https://api.svitlobot.in.ua/timetables/kharkiv/6.1/today.png",
-   "updated_at": "2026-11-16T04:01:52+02:00"
+   "updated_at": "2026-11-16T23:11:06+02:00"
   },
   {
    "region": "kharkiv",
@@ -547,7 +547,7 @@
    "file": "kharkiv/6.2.json",
    "image": "https://api.svitlobot.in.ua/timetables/kharkiv/6.2.png",
    "image_today": "https://api.svitlobot.in.ua/timetables/kharkiv/6.2/today.png",
-   "updated_at": "2026-11-16T04:01:52+02:00"
+   "updated_at": "2026-11-16T23:11:06+02:00"
   },
   {
    "region": "khmelnytskyi",
@@ -1528,7 +1528,7 @@
    "file": "vinnytsia/1.1.json",
    "image": "https://api.svitlobot.in.ua/timetables/vinnytsia/1.1.png",
    "image_today": "https://api.svitlobot.in.ua/timetables/vinnytsia/1.1/today.png",
-   "updated_at": "2026-11-16T14:59:15+02:00"
+   "updated_at": "2026-11-16T23:16:05+02:00"
   },
   {
    "region": "vinnytsia",
@@ -1537,7 +1537,7 @@
    "file": "vinnytsia/1.2.json",
    "image": "https://api.svitlobot.in.ua/timetables/vinnytsia/1.2.png",
    "image_today": "https://api.svitlobot.in.ua/timetables/vinnytsia/1.2/today.png",
-   "updated_at": "2026-11-16T19:11:03+02:00"
+   "updated_at": "2026-11-16T23:16:05+02:00"
   },
   {
    "region": "vinnytsia",
@@ -1546,7 +1546,7 @@
    "file": "vinnytsia/2.1.json",
    "image": "https://api.svitlobot.in.ua/timetables/vinnytsia/2.1.png",
    "image_today": "https://api.svitlobot.in.ua/timetables/vinnytsia/2.1/today.png",
-   "updated_at": "2026-11-16T19:11:03+02:00"
+   "updated_at": "2026-11-16T23:16:05+02:00"
   },
   {
    "region": "vinnytsia",
@@ -1555,7 +1555,7 @@
    "file": "vinnytsia/2.2.json",
    "image": "https://api.svitlobot.in.ua/timetables/vinnytsia/2.2.png",
    "image_today": "https://api.svitlobot.in.ua/timetables/vinnytsia/2.2/today.png",
-   "updated_at": "2026-11-16T18:56:02+02:00"
+   "updated_at": "2026-11-16T23:16:05+02:00"
   },
   {
    "region": "vinnytsia",
@@ -1564,7 +1564,7 @@
    "file": "vinnytsia/3.1.json",
    "image": "https://api.svitlobot.in.ua/timetables/vinnytsia/3.1.png",
    "image_today": "https://api.svitlobot.in.ua/timetables/vinnytsia/3.1/today.png",
-   "updated_at": "2026-11-16T18:56:02+02:00"
+   "updated_at": "2026-11-16T23:16:05+02:00"
   },
   {
    "region": "vinnytsia",
@@ -1573,7 +1573,7 @@
    "file": "vinnytsia/3.2.json",
    "image": "https://api.svitlobot.in.ua/timetables/vinnytsia/3.2.png",
    "image_today": "https://api.svitlobot.in.ua/timetables/vinnytsia/3.2/today.png",
-   "updated_at": "2026-11-16T18:56:02+02:00"
+   "updated_at": "2026-11-16T23:16:05+02:00"
   },
   {
    "region": "vinnytsia",
@@ -1582,7 +1582,7 @@
    "file": "vinnytsia/4.1.json",
    "image": "https://api.svitlobot.in.ua/timetables/vinnytsia/4.1.png",
    "image_today": "https://api.svitlobot.in.ua/timetables/vinnytsia/4.1/today.png",
-   "updated_at": "2026-11-16T19:11:03+02:00"
+   "updated_at": "2026-11-16T23:16:05+02:00"
   },
   {
    "region": "vinnytsia",
@@ -1591,7 +1591,7 @@
    "file": "vinnytsia/4.2.json",
    "image": "https://api.svitlobot.in.ua/timetables/vinnytsia/4.2.png",
    "image_today": "https://api.svitlobot.in.ua/timetables/vinnytsia/4.2/today.png",
-   "updated_at": "2026-11-16T18:56:02+02:00"
+   "updated_at": "2026-11-16T23:16:05+02:00"
   },
   {
    "region": "vinnytsia",
@@ -1600,7 +1600,7 @@
    "file": "vinnytsia/5.1.json",
    "image": "https://api.svitlobot.in.ua/timetables/vinnytsia/5.1.png",
    "image_today": "https://api.svitlobot.in.ua/timetables/vinnytsia/5.1/today.png",
-   "updated_at": "2026-11-16T23:06:01+02:00"
+   "updated_at": "2026-11-16T23:16:05+02:00"
   },
   {
    "region": "vinnytsia",
@@ -1609,7 +1609,7 @@
    "file": "vinnytsia/5.2.json",
    "image": "https://api.svitlobot.in.ua/timetables/vinnytsia/5.2.png",
    "image_today": "https://api.svitlobot.in.ua/timetables/vinnytsia/5.2/today.png",
-   "updated_at": "2026-11-16T18:56:02+02:00"
+   "updated_at": "2026-11-16T23:16:05+02:00"
   },
   {
    "region": "vinnytsia",
@@ -1618,7 +1618,7 @@
    "file": "vinnytsia/6.1.json",
    "image": "https://api.svitlobot.in.ua/timetables/vinnytsia/6.1.png",
    "image_today": "https://api.svitlobot.in.ua/timetables/vinnytsia/6.1/today.png",
-   "updated_at": "2026-11-16T22:56:03+02:00"
+   "updated_at": "2026-11-16T23:11:06+02:00"
   },
   {
    "region": "vinnytsia",
@@ -1627,7 +1627,7 @@
    "file": "vinnytsia/6.2.json",
    "image": "https://api.svitlobot.in.ua/timetables/vinnytsia/6.2.png",
    "image_today": "https://api.svitlobot.in.ua/timetables/vinnytsia/6.2/today.png",
-   "updated_at": "2026-11-16T19:11:03+02:00"
+   "updated_at": "2026-11-16T23:11:06+02:00"
   },
   {
    "region": "zaporizhzhia",
