@@ -1762,7 +1762,7 @@
    "file": "zhytomyr/2.1.json",
    "image": "https://api.svitlobot.in.ua/timetables/zhytomyr/2.1.png",
    "image_today": "https://api.svitlobot.in.ua/timetables/zhytomyr/2.1/today.png",
-   "updated_at": "2026-11-19T07:35:41+02:00"
+   "updated_at": "2026-11-19T08:30:41+02:00"
   },
   {
    "region": "zhytomyr",
@@ -1771,7 +1771,7 @@
    "file": "zhytomyr/2.2.json",
    "image": "https://api.svitlobot.in.ua/timetables/zhytomyr/2.2.png",
    "image_today": "https://api.svitlobot.in.ua/timetables/zhytomyr/2.2/today.png",
-   "updated_at": "2026-11-19T05:55:40+02:00"
+   "updated_at": "2026-11-19T08:30:41+02:00"
   },
   {
    "region": "zhytomyr",
