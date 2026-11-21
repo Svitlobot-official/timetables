@@ -1717,7 +1717,7 @@
    "file": "poltava/5.2.json",
    "image": "https://api.svitlobot.in.ua/timetables/poltava/5.2.png",
    "image_today": "https://api.svitlobot.in.ua/timetables/poltava/5.2/today.png",
-   "updated_at": "2026-11-21T08:46:50+02:00"
+   "updated_at": "2026-11-21T15:47:51+02:00"
   },
   {
    "region": "poltava",
@@ -1726,7 +1726,7 @@
    "file": "poltava/6.1.json",
    "image": "https://api.svitlobot.in.ua/timetables/poltava/6.1.png",
    "image_today": "https://api.svitlobot.in.ua/timetables/poltava/6.1/today.png",
-   "updated_at": "2026-11-21T09:41:49+02:00"
+   "updated_at": "2026-11-21T15:47:51+02:00"
   },
   {
    "region": "poltava",
@@ -1960,7 +1960,7 @@
    "file": "vinnytsia/1.1.json",
    "image": "https://api.svitlobot.in.ua/timetables/vinnytsia/1.1.png",
    "image_today": "https://api.svitlobot.in.ua/timetables/vinnytsia/1.1/today.png",
-   "updated_at": "2026-11-21T09:21:46+02:00"
+   "updated_at": "2026-11-21T15:47:51+02:00"
   },
   {
    "region": "vinnytsia",
@@ -1969,7 +1969,7 @@
    "file": "vinnytsia/1.2.json",
    "image": "https://api.svitlobot.in.ua/timetables/vinnytsia/1.2.png",
    "image_today": "https://api.svitlobot.in.ua/timetables/vinnytsia/1.2/today.png",
-   "updated_at": "2026-11-21T09:21:46+02:00"
+   "updated_at": "2026-11-21T15:47:51+02:00"
   },
   {
    "region": "vinnytsia",
@@ -2302,7 +2302,7 @@
    "file": "zhytomyr/2.1.json",
    "image": "https://api.svitlobot.in.ua/timetables/zhytomyr/2.1.png",
    "image_today": "https://api.svitlobot.in.ua/timetables/zhytomyr/2.1/today.png",
-   "updated_at": "2026-11-21T15:37:51+02:00"
+   "updated_at": "2026-11-21T15:47:51+02:00"
   },
   {
    "region": "zhytomyr",
