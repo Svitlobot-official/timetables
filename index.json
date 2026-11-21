@@ -1915,7 +1915,7 @@
    "file": "ternopil/4.2.json",
    "image": "https://api.svitlobot.in.ua/timetables/ternopil/4.2.png",
    "image_today": "https://api.svitlobot.in.ua/timetables/ternopil/4.2/today.png",
-   "updated_at": "2026-11-21T17:52:51+02:00"
+   "updated_at": "2026-11-21T18:57:52+02:00"
   },
   {
    "region": "ternopil",
@@ -2023,7 +2023,7 @@
    "file": "vinnytsia/4.2.json",
    "image": "https://api.svitlobot.in.ua/timetables/vinnytsia/4.2.png",
    "image_today": "https://api.svitlobot.in.ua/timetables/vinnytsia/4.2/today.png",
-   "updated_at": "2026-11-21T18:02:51+02:00"
+   "updated_at": "2026-11-21T18:52:48+02:00"
   },
   {
    "region": "vinnytsia",
