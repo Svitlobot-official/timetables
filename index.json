@@ -1636,7 +1636,7 @@
    "file": "poltava/1.1.json",
    "image": "https://api.svitlobot.in.ua/timetables/poltava/1.1.png",
    "image_today": "https://api.svitlobot.in.ua/timetables/poltava/1.1/today.png",
-   "updated_at": "2026-11-21T10:41:49+02:00"
+   "updated_at": "2026-11-21T16:47:51+02:00"
   },
   {
    "region": "poltava",
@@ -1735,7 +1735,7 @@
    "file": "poltava/6.2.json",
    "image": "https://api.svitlobot.in.ua/timetables/poltava/6.2.png",
    "image_today": "https://api.svitlobot.in.ua/timetables/poltava/6.2/today.png",
-   "updated_at": "2026-11-21T09:41:49+02:00"
+   "updated_at": "2026-11-21T16:47:51+02:00"
   },
   {
    "region": "rivne",
