@@ -457,7 +457,7 @@
    "file": "ivano_frankivsk/1.2.json",
    "image": "https://api.svitlobot.in.ua/timetables/ivano_frankivsk/1.2.png",
    "image_today": "https://api.svitlobot.in.ua/timetables/ivano_frankivsk/1.2/today.png",
-   "updated_at": "2026-11-21T01:41:49+02:00"
+   "updated_at": "2026-11-21T06:01:50+02:00"
   },
   {
    "region": "ivano_frankivsk",
@@ -466,7 +466,7 @@
    "file": "ivano_frankivsk/2.1.json",
    "image": "https://api.svitlobot.in.ua/timetables/ivano_frankivsk/2.1.png",
    "image_today": "https://api.svitlobot.in.ua/timetables/ivano_frankivsk/2.1/today.png",
-   "updated_at": "2026-11-21T01:01:50+02:00"
+   "updated_at": "2026-11-21T06:01:50+02:00"
   },
   {
    "region": "ivano_frankivsk",
@@ -511,7 +511,7 @@
    "file": "ivano_frankivsk/4.2.json",
    "image": "https://api.svitlobot.in.ua/timetables/ivano_frankivsk/4.2.png",
    "image_today": "https://api.svitlobot.in.ua/timetables/ivano_frankivsk/4.2/today.png",
-   "updated_at": "2026-11-21T01:01:50+02:00"
+   "updated_at": "2026-11-21T06:01:50+02:00"
   },
   {
    "region": "ivano_frankivsk",
@@ -538,7 +538,7 @@
    "file": "ivano_frankivsk/6.1.json",
    "image": "https://api.svitlobot.in.ua/timetables/ivano_frankivsk/6.1.png",
    "image_today": "https://api.svitlobot.in.ua/timetables/ivano_frankivsk/6.1/today.png",
-   "updated_at": "2026-11-21T01:01:50+02:00"
+   "updated_at": "2026-11-21T06:01:50+02:00"
   },
   {
    "region": "ivano_frankivsk",
@@ -547,7 +547,7 @@
    "file": "ivano_frankivsk/6.2.json",
    "image": "https://api.svitlobot.in.ua/timetables/ivano_frankivsk/6.2.png",
    "image_today": "https://api.svitlobot.in.ua/timetables/ivano_frankivsk/6.2/today.png",
-   "updated_at": "2026-11-21T01:01:50+02:00"
+   "updated_at": "2026-11-21T06:01:50+02:00"
   },
   {
    "region": "kharkiv",
