@@ -457,7 +457,7 @@
    "file": "ivano_frankivsk/1.2.json",
    "image": "https://api.svitlobot.in.ua/timetables/ivano_frankivsk/1.2.png",
    "image_today": "https://api.svitlobot.in.ua/timetables/ivano_frankivsk/1.2/today.png",
-   "updated_at": "2026-11-21T13:26:49+02:00"
+   "updated_at": "2026-11-21T14:07:51+02:00"
   },
   {
    "region": "ivano_frankivsk",
@@ -466,7 +466,7 @@
    "file": "ivano_frankivsk/2.1.json",
    "image": "https://api.svitlobot.in.ua/timetables/ivano_frankivsk/2.1.png",
    "image_today": "https://api.svitlobot.in.ua/timetables/ivano_frankivsk/2.1/today.png",
-   "updated_at": "2026-11-21T13:26:49+02:00"
+   "updated_at": "2026-11-21T14:07:51+02:00"
   },
   {
    "region": "ivano_frankivsk",
@@ -502,7 +502,7 @@
    "file": "ivano_frankivsk/4.1.json",
    "image": "https://api.svitlobot.in.ua/timetables/ivano_frankivsk/4.1.png",
    "image_today": "https://api.svitlobot.in.ua/timetables/ivano_frankivsk/4.1/today.png",
-   "updated_at": "2026-11-21T13:26:49+02:00"
+   "updated_at": "2026-11-21T14:07:51+02:00"
   },
   {
    "region": "ivano_frankivsk",
@@ -511,7 +511,7 @@
    "file": "ivano_frankivsk/4.2.json",
    "image": "https://api.svitlobot.in.ua/timetables/ivano_frankivsk/4.2.png",
    "image_today": "https://api.svitlobot.in.ua/timetables/ivano_frankivsk/4.2/today.png",
-   "updated_at": "2026-11-21T13:26:49+02:00"
+   "updated_at": "2026-11-21T14:07:51+02:00"
   },
   {
    "region": "ivano_frankivsk",
@@ -538,7 +538,7 @@
    "file": "ivano_frankivsk/6.1.json",
    "image": "https://api.svitlobot.in.ua/timetables/ivano_frankivsk/6.1.png",
    "image_today": "https://api.svitlobot.in.ua/timetables/ivano_frankivsk/6.1/today.png",
-   "updated_at": "2026-11-21T13:26:49+02:00"
+   "updated_at": "2026-11-21T14:07:51+02:00"
   },
   {
    "region": "ivano_frankivsk",
@@ -1420,7 +1420,7 @@
    "file": "lviv/1.1.json",
    "image": "https://api.svitlobot.in.ua/timetables/lviv/1.1.png",
    "image_today": "https://api.svitlobot.in.ua/timetables/lviv/1.1/today.png",
-   "updated_at": "2026-11-21T05:36:49+02:00"
+   "updated_at": "2026-11-21T14:07:51+02:00"
   },
   {
    "region": "lviv",
@@ -1438,7 +1438,7 @@
    "file": "lviv/2.1.json",
    "image": "https://api.svitlobot.in.ua/timetables/lviv/2.1.png",
    "image_today": "https://api.svitlobot.in.ua/timetables/lviv/2.1/today.png",
-   "updated_at": "2026-11-21T07:26:50+02:00"
+   "updated_at": "2026-11-21T14:07:51+02:00"
   },
   {
    "region": "lviv",
@@ -1474,7 +1474,7 @@
    "file": "lviv/4.1.json",
    "image": "https://api.svitlobot.in.ua/timetables/lviv/4.1.png",
    "image_today": "https://api.svitlobot.in.ua/timetables/lviv/4.1/today.png",
-   "updated_at": "2026-11-21T07:26:50+02:00"
+   "updated_at": "2026-11-21T14:07:51+02:00"
   },
   {
    "region": "lviv",
@@ -1501,7 +1501,7 @@
    "file": "lviv/5.2.json",
    "image": "https://api.svitlobot.in.ua/timetables/lviv/5.2.png",
    "image_today": "https://api.svitlobot.in.ua/timetables/lviv/5.2/today.png",
-   "updated_at": "2026-11-21T07:26:50+02:00"
+   "updated_at": "2026-11-21T14:07:51+02:00"
   },
   {
    "region": "lviv",
@@ -1510,7 +1510,7 @@
    "file": "lviv/6.1.json",
    "image": "https://api.svitlobot.in.ua/timetables/lviv/6.1.png",
    "image_today": "https://api.svitlobot.in.ua/timetables/lviv/6.1/today.png",
-   "updated_at": "2026-11-21T01:01:50+02:00"
+   "updated_at": "2026-11-21T14:07:51+02:00"
   },
   {
    "region": "lviv",
@@ -1519,7 +1519,7 @@
    "file": "lviv/6.2.json",
    "image": "https://api.svitlobot.in.ua/timetables/lviv/6.2.png",
    "image_today": "https://api.svitlobot.in.ua/timetables/lviv/6.2/today.png",
-   "updated_at": "2026-11-21T07:26:50+02:00"
+   "updated_at": "2026-11-21T14:07:51+02:00"
   },
   {
    "region": "odesa",
