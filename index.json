@@ -1402,7 +1402,7 @@
    "file": "kyiv_oblast/6.1.json",
    "image": "https://api.svitlobot.in.ua/timetables/kyiv_oblast/6.1.png",
    "image_today": "https://api.svitlobot.in.ua/timetables/kyiv_oblast/6.1/today.png",
-   "updated_at": "2026-11-21T15:22:48+02:00"
+   "updated_at": "2026-11-21T21:52:52+02:00"
   },
   {
    "region": "kyiv_oblast",
@@ -1645,7 +1645,7 @@
    "file": "poltava/1.2.json",
    "image": "https://api.svitlobot.in.ua/timetables/poltava/1.2.png",
    "image_today": "https://api.svitlobot.in.ua/timetables/poltava/1.2/today.png",
-   "updated_at": "2026-11-21T19:37:51+02:00"
+   "updated_at": "2026-11-21T21:52:52+02:00"
   },
   {
    "region": "poltava",
@@ -1654,7 +1654,7 @@
    "file": "poltava/2.1.json",
    "image": "https://api.svitlobot.in.ua/timetables/poltava/2.1.png",
    "image_today": "https://api.svitlobot.in.ua/timetables/poltava/2.1/today.png",
-   "updated_at": "2026-11-21T17:47:50+02:00"
+   "updated_at": "2026-11-21T21:52:52+02:00"
   },
   {
    "region": "poltava",
@@ -1942,7 +1942,7 @@
    "file": "ternopil/6.1.json",
    "image": "https://api.svitlobot.in.ua/timetables/ternopil/6.1.png",
    "image_today": "https://api.svitlobot.in.ua/timetables/ternopil/6.1/today.png",
-   "updated_at": "2026-11-21T12:41:49+02:00"
+   "updated_at": "2026-11-21T21:52:52+02:00"
   },
   {
    "region": "ternopil",
