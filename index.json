@@ -2356,7 +2356,7 @@
    "file": "zhytomyr/5.1.json",
    "image": "https://api.svitlobot.in.ua/timetables/zhytomyr/5.1.png",
    "image_today": "https://api.svitlobot.in.ua/timetables/zhytomyr/5.1/today.png",
-   "updated_at": "2026-11-22T15:55:02+02:00"
+   "updated_at": "2026-11-22T17:15:03+02:00"
   },
   {
    "region": "zhytomyr",
@@ -2365,7 +2365,7 @@
    "file": "zhytomyr/5.2.json",
    "image": "https://api.svitlobot.in.ua/timetables/zhytomyr/5.2.png",
    "image_today": "https://api.svitlobot.in.ua/timetables/zhytomyr/5.2/today.png",
-   "updated_at": "2026-11-22T15:55:02+02:00"
+   "updated_at": "2026-11-22T17:15:03+02:00"
   },
   {
    "region": "zhytomyr",
@@ -2374,7 +2374,7 @@
    "file": "zhytomyr/6.1.json",
    "image": "https://api.svitlobot.in.ua/timetables/zhytomyr/6.1.png",
    "image_today": "https://api.svitlobot.in.ua/timetables/zhytomyr/6.1/today.png",
-   "updated_at": "2026-11-22T15:55:02+02:00"
+   "updated_at": "2026-11-22T17:15:03+02:00"
   },
   {
    "region": "zhytomyr",
@@ -2383,7 +2383,7 @@
    "file": "zhytomyr/6.2.json",
    "image": "https://api.svitlobot.in.ua/timetables/zhytomyr/6.2.png",
    "image_today": "https://api.svitlobot.in.ua/timetables/zhytomyr/6.2/today.png",
-   "updated_at": "2026-11-22T15:55:02+02:00"
+   "updated_at": "2026-11-22T17:15:03+02:00"
   }
  ]
 }
