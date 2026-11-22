@@ -1636,7 +1636,7 @@
    "file": "poltava/1.1.json",
    "image": "https://api.svitlobot.in.ua/timetables/poltava/1.1.png",
    "image_today": "https://api.svitlobot.in.ua/timetables/poltava/1.1/today.png",
-   "updated_at": "2026-11-22T00:11:49+02:00"
+   "updated_at": "2026-11-22T09:41:49+02:00"
   },
   {
    "region": "poltava",
@@ -1645,7 +1645,7 @@
    "file": "poltava/1.2.json",
    "image": "https://api.svitlobot.in.ua/timetables/poltava/1.2.png",
    "image_today": "https://api.svitlobot.in.ua/timetables/poltava/1.2/today.png",
-   "updated_at": "2026-11-22T00:11:49+02:00"
+   "updated_at": "2026-11-22T09:41:49+02:00"
   },
   {
    "region": "poltava",
@@ -1726,7 +1726,7 @@
    "file": "poltava/6.1.json",
    "image": "https://api.svitlobot.in.ua/timetables/poltava/6.1.png",
    "image_today": "https://api.svitlobot.in.ua/timetables/poltava/6.1/today.png",
-   "updated_at": "2026-11-22T07:46:50+02:00"
+   "updated_at": "2026-11-22T09:41:49+02:00"
   },
   {
    "region": "poltava",
@@ -1735,7 +1735,7 @@
    "file": "poltava/6.2.json",
    "image": "https://api.svitlobot.in.ua/timetables/poltava/6.2.png",
    "image_today": "https://api.svitlobot.in.ua/timetables/poltava/6.2/today.png",
-   "updated_at": "2026-11-22T07:46:50+02:00"
+   "updated_at": "2026-11-22T09:41:49+02:00"
   },
   {
    "region": "rivne",
@@ -2185,7 +2185,7 @@
    "file": "zaporizhzhia/1.2.json",
    "image": "https://api.svitlobot.in.ua/timetables/zaporizhzhia/1.2.png",
    "image_today": "https://api.svitlobot.in.ua/timetables/zaporizhzhia/1.2/today.png",
-   "updated_at": "2026-11-22T00:01:51+02:00"
+   "updated_at": "2026-11-22T09:41:49+02:00"
   },
   {
    "region": "zaporizhzhia",
@@ -2203,7 +2203,7 @@
    "file": "zaporizhzhia/2.2.json",
    "image": "https://api.svitlobot.in.ua/timetables/zaporizhzhia/2.2.png",
    "image_today": "https://api.svitlobot.in.ua/timetables/zaporizhzhia/2.2/today.png",
-   "updated_at": "2026-11-22T00:01:52+02:00"
+   "updated_at": "2026-11-22T09:41:49+02:00"
   },
   {
    "region": "zaporizhzhia",
@@ -2248,7 +2248,7 @@
    "file": "zaporizhzhia/5.1.json",
    "image": "https://api.svitlobot.in.ua/timetables/zaporizhzhia/5.1.png",
    "image_today": "https://api.svitlobot.in.ua/timetables/zaporizhzhia/5.1/today.png",
-   "updated_at": "2026-11-22T00:01:52+02:00"
+   "updated_at": "2026-11-22T09:41:49+02:00"
   },
   {
    "region": "zaporizhzhia",
