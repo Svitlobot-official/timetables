@@ -1699,7 +1699,7 @@
    "file": "poltava/4.2.json",
    "image": "https://api.svitlobot.in.ua/timetables/poltava/4.2.png",
    "image_today": "https://api.svitlobot.in.ua/timetables/poltava/4.2/today.png",
-   "updated_at": "2026-11-22T16:45:02+02:00"
+   "updated_at": "2026-11-22T21:36:06+02:00"
   },
   {
    "region": "poltava",
@@ -1888,7 +1888,7 @@
    "file": "ternopil/3.1.json",
    "image": "https://api.svitlobot.in.ua/timetables/ternopil/3.1.png",
    "image_today": "https://api.svitlobot.in.ua/timetables/ternopil/3.1/today.png",
-   "updated_at": "2026-11-22T08:51:49+02:00"
+   "updated_at": "2026-11-22T21:36:06+02:00"
   },
   {
    "region": "ternopil",
@@ -1906,7 +1906,7 @@
    "file": "ternopil/4.1.json",
    "image": "https://api.svitlobot.in.ua/timetables/ternopil/4.1.png",
    "image_today": "https://api.svitlobot.in.ua/timetables/ternopil/4.1/today.png",
-   "updated_at": "2026-11-22T12:51:49+02:00"
+   "updated_at": "2026-11-22T21:36:06+02:00"
   },
   {
    "region": "ternopil",
