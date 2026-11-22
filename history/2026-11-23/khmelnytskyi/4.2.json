@@ -1,0 +1,55 @@
+{
+ "region": "khmelnytskyi",
+ "region_name": "Хмельницька область",
+ "group": "4.2",
+ "week_start": "2026-11-23",
+ "updated_at": "2026-11-22T22:16:06+02:00",
+ "source_updated_at": "2026-11-22T22:12:35+02:00",
+ "days": [
+  {
+   "date": "2026-11-23",
+   "weekday": "Понеділок",
+   "slots": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 0, 0, 0, 1, 1, 1, 0, 0],
+   "outages": [
+    ["12:00", "16:00"],
+    ["19:00", "22:00"]
+   ]
+  },
+  {
+   "date": "2026-11-24",
+   "weekday": "Вівторок",
+   "slots": null,
+   "outages": null
+  },
+  {
+   "date": "2026-11-25",
+   "weekday": "Середа",
+   "slots": null,
+   "outages": null
+  },
+  {
+   "date": "2026-11-26",
+   "weekday": "Четвер",
+   "slots": null,
+   "outages": null
+  },
+  {
+   "date": "2026-11-27",
+   "weekday": "П’ятниця",
+   "slots": null,
+   "outages": null
+  },
+  {
+   "date": "2026-11-28",
+   "weekday": "Субота",
+   "slots": null,
+   "outages": null
+  },
+  {
+   "date": "2026-11-29",
+   "weekday": "Неділя",
+   "slots": null,
+   "outages": null
+  }
+ ]
+}

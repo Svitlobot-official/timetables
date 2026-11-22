@@ -1,0 +1,54 @@
+{
+ "region": "odesa",
+ "region_name": "Одеса та область",
+ "group": "4.2",
+ "week_start": "2026-11-23",
+ "updated_at": "2026-11-22T22:11:05+02:00",
+ "source_updated_at": "2026-11-22T22:05:57+02:00",
+ "days": [
+  {
+   "date": "2026-11-23",
+   "weekday": "Понеділок",
+   "slots": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 2, 0, 0, 0],
+   "outages": [
+    ["13:00", "20:30"]
+   ]
+  },
+  {
+   "date": "2026-11-24",
+   "weekday": "Вівторок",
+   "slots": null,
+   "outages": null
+  },
+  {
+   "date": "2026-11-25",
+   "weekday": "Середа",
+   "slots": null,
+   "outages": null
+  },
+  {
+   "date": "2026-11-26",
+   "weekday": "Четвер",
+   "slots": null,
+   "outages": null
+  },
+  {
+   "date": "2026-11-27",
+   "weekday": "П’ятниця",
+   "slots": null,
+   "outages": null
+  },
+  {
+   "date": "2026-11-28",
+   "weekday": "Субота",
+   "slots": null,
+   "outages": null
+  },
+  {
+   "date": "2026-11-29",
+   "weekday": "Неділя",
+   "slots": null,
+   "outages": null
+  }
+ ]
+}
