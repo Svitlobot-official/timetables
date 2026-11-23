@@ -475,7 +475,7 @@
    "file": "ivano_frankivsk/2.2.json",
    "image": "https://api.svitlobot.in.ua/timetables/ivano_frankivsk/2.2.png",
    "image_today": "https://api.svitlobot.in.ua/timetables/ivano_frankivsk/2.2/today.png",
-   "updated_at": "2026-11-23T10:56:49+02:00"
+   "updated_at": "2026-11-23T18:56:49+02:00"
   },
   {
    "region": "ivano_frankivsk",
@@ -1861,7 +1861,7 @@
    "file": "ternopil/1.2.json",
    "image": "https://api.svitlobot.in.ua/timetables/ternopil/1.2.png",
    "image_today": "https://api.svitlobot.in.ua/timetables/ternopil/1.2/today.png",
-   "updated_at": "2026-11-23T10:51:49+02:00"
+   "updated_at": "2026-11-23T18:56:49+02:00"
   },
   {
    "region": "ternopil",
