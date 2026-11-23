@@ -1429,7 +1429,7 @@
    "file": "lviv/1.2.json",
    "image": "https://api.svitlobot.in.ua/timetables/lviv/1.2.png",
    "image_today": "https://api.svitlobot.in.ua/timetables/lviv/1.2/today.png",
-   "updated_at": "2026-11-23T16:11:50+02:00"
+   "updated_at": "2026-11-23T16:31:50+02:00"
   },
   {
    "region": "lviv",
@@ -1456,7 +1456,7 @@
    "file": "lviv/3.1.json",
    "image": "https://api.svitlobot.in.ua/timetables/lviv/3.1.png",
    "image_today": "https://api.svitlobot.in.ua/timetables/lviv/3.1/today.png",
-   "updated_at": "2026-11-23T16:11:50+02:00"
+   "updated_at": "2026-11-23T16:31:50+02:00"
   },
   {
    "region": "lviv",
