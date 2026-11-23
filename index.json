@@ -754,7 +754,7 @@
    "file": "khmelnytskyi/6.1.json",
    "image": "https://api.svitlobot.in.ua/timetables/khmelnytskyi/6.1.png",
    "image_today": "https://api.svitlobot.in.ua/timetables/khmelnytskyi/6.1/today.png",
-   "updated_at": "2026-11-23T23:26:50+02:00"
+   "updated_at": "2026-11-24T00:01:52+02:00"
   },
   {
    "region": "khmelnytskyi",
@@ -763,7 +763,7 @@
    "file": "khmelnytskyi/6.2.json",
    "image": "https://api.svitlobot.in.ua/timetables/khmelnytskyi/6.2.png",
    "image_today": "https://api.svitlobot.in.ua/timetables/khmelnytskyi/6.2/today.png",
-   "updated_at": "2026-11-23T23:26:50+02:00"
+   "updated_at": "2026-11-24T00:01:52+02:00"
   },
   {
    "region": "kyiv",
@@ -1339,7 +1339,7 @@
    "file": "kyiv_oblast/2.2.json",
    "image": "https://api.svitlobot.in.ua/timetables/kyiv_oblast/2.2.png",
    "image_today": "https://api.svitlobot.in.ua/timetables/kyiv_oblast/2.2/today.png",
-   "updated_at": "2026-11-23T22:46:47+02:00"
+   "updated_at": "2026-11-24T00:06:51+02:00"
   },
   {
    "region": "kyiv_oblast",
@@ -2248,7 +2248,7 @@
    "file": "zaporizhzhia/5.1.json",
    "image": "https://api.svitlobot.in.ua/timetables/zaporizhzhia/5.1.png",
    "image_today": "https://api.svitlobot.in.ua/timetables/zaporizhzhia/5.1/today.png",
-   "updated_at": "2026-11-23T21:06:50+02:00"
+   "updated_at": "2026-11-24T00:06:51+02:00"
   },
   {
    "region": "zaporizhzhia",
