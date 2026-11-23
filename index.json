@@ -1960,7 +1960,7 @@
    "file": "vinnytsia/1.1.json",
    "image": "https://api.svitlobot.in.ua/timetables/vinnytsia/1.1.png",
    "image_today": "https://api.svitlobot.in.ua/timetables/vinnytsia/1.1/today.png",
-   "updated_at": "2026-11-23T11:21:50+02:00"
+   "updated_at": "2026-11-23T11:36:47+02:00"
   },
   {
    "region": "vinnytsia",
@@ -1987,7 +1987,7 @@
    "file": "vinnytsia/2.2.json",
    "image": "https://api.svitlobot.in.ua/timetables/vinnytsia/2.2.png",
    "image_today": "https://api.svitlobot.in.ua/timetables/vinnytsia/2.2/today.png",
-   "updated_at": "2026-11-23T11:21:50+02:00"
+   "updated_at": "2026-11-23T11:36:47+02:00"
   },
   {
    "region": "vinnytsia",
@@ -2032,7 +2032,7 @@
    "file": "vinnytsia/5.1.json",
    "image": "https://api.svitlobot.in.ua/timetables/vinnytsia/5.1.png",
    "image_today": "https://api.svitlobot.in.ua/timetables/vinnytsia/5.1/today.png",
-   "updated_at": "2026-11-23T11:21:50+02:00"
+   "updated_at": "2026-11-23T11:36:47+02:00"
   },
   {
    "region": "vinnytsia",
@@ -2041,7 +2041,7 @@
    "file": "vinnytsia/5.2.json",
    "image": "https://api.svitlobot.in.ua/timetables/vinnytsia/5.2.png",
    "image_today": "https://api.svitlobot.in.ua/timetables/vinnytsia/5.2/today.png",
-   "updated_at": "2026-11-23T11:21:50+02:00"
+   "updated_at": "2026-11-23T11:36:47+02:00"
   },
   {
    "region": "vinnytsia",
@@ -2050,7 +2050,7 @@
    "file": "vinnytsia/6.1.json",
    "image": "https://api.svitlobot.in.ua/timetables/vinnytsia/6.1.png",
    "image_today": "https://api.svitlobot.in.ua/timetables/vinnytsia/6.1/today.png",
-   "updated_at": "2026-11-23T11:21:50+02:00"
+   "updated_at": "2026-11-23T11:36:47+02:00"
   },
   {
    "region": "vinnytsia",
