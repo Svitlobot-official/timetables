@@ -1564,7 +1564,7 @@
    "file": "odesa/3.1.json",
    "image": "https://api.svitlobot.in.ua/timetables/odesa/3.1.png",
    "image_today": "https://api.svitlobot.in.ua/timetables/odesa/3.1/today.png",
-   "updated_at": "2026-11-23T16:11:50+02:00"
+   "updated_at": "2026-11-23T19:01:50+02:00"
   },
   {
    "region": "odesa",
@@ -2347,7 +2347,7 @@
    "file": "zhytomyr/4.2.json",
    "image": "https://api.svitlobot.in.ua/timetables/zhytomyr/4.2.png",
    "image_today": "https://api.svitlobot.in.ua/timetables/zhytomyr/4.2/today.png",
-   "updated_at": "2026-11-23T12:56:49+02:00"
+   "updated_at": "2026-11-23T19:01:50+02:00"
   },
   {
    "region": "zhytomyr",
