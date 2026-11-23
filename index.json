@@ -340,7 +340,7 @@
    "file": "dnipro_dtek/1.1.json",
    "image": "https://api.svitlobot.in.ua/timetables/dnipro_dtek/1.1.png",
    "image_today": "https://api.svitlobot.in.ua/timetables/dnipro_dtek/1.1/today.png",
-   "updated_at": "2026-11-23T13:06:46+02:00"
+   "updated_at": "2026-11-23T19:11:46+02:00"
   },
   {
    "region": "dnipro_dtek",
@@ -358,7 +358,7 @@
    "file": "dnipro_dtek/2.1.json",
    "image": "https://api.svitlobot.in.ua/timetables/dnipro_dtek/2.1.png",
    "image_today": "https://api.svitlobot.in.ua/timetables/dnipro_dtek/2.1/today.png",
-   "updated_at": "2026-11-23T13:06:46+02:00"
+   "updated_at": "2026-11-23T19:11:46+02:00"
   },
   {
    "region": "dnipro_dtek",
@@ -412,7 +412,7 @@
    "file": "dnipro_dtek/5.1.json",
    "image": "https://api.svitlobot.in.ua/timetables/dnipro_dtek/5.1.png",
    "image_today": "https://api.svitlobot.in.ua/timetables/dnipro_dtek/5.1/today.png",
-   "updated_at": "2026-11-23T13:06:46+02:00"
+   "updated_at": "2026-11-23T19:11:46+02:00"
   },
   {
    "region": "dnipro_dtek",
@@ -421,7 +421,7 @@
    "file": "dnipro_dtek/5.2.json",
    "image": "https://api.svitlobot.in.ua/timetables/dnipro_dtek/5.2.png",
    "image_today": "https://api.svitlobot.in.ua/timetables/dnipro_dtek/5.2/today.png",
-   "updated_at": "2026-11-23T13:06:46+02:00"
+   "updated_at": "2026-11-23T19:11:46+02:00"
   },
   {
    "region": "dnipro_dtek",
@@ -430,7 +430,7 @@
    "file": "dnipro_dtek/6.1.json",
    "image": "https://api.svitlobot.in.ua/timetables/dnipro_dtek/6.1.png",
    "image_today": "https://api.svitlobot.in.ua/timetables/dnipro_dtek/6.1/today.png",
-   "updated_at": "2026-11-23T13:06:46+02:00"
+   "updated_at": "2026-11-23T19:11:46+02:00"
   },
   {
    "region": "dnipro_dtek",
@@ -1348,7 +1348,7 @@
    "file": "kyiv_oblast/3.1.json",
    "image": "https://api.svitlobot.in.ua/timetables/kyiv_oblast/3.1.png",
    "image_today": "https://api.svitlobot.in.ua/timetables/kyiv_oblast/3.1/today.png",
-   "updated_at": "2026-11-23T11:01:47+02:00"
+   "updated_at": "2026-11-23T19:11:46+02:00"
   },
   {
    "region": "kyiv_oblast",
@@ -1357,7 +1357,7 @@
    "file": "kyiv_oblast/3.2.json",
    "image": "https://api.svitlobot.in.ua/timetables/kyiv_oblast/3.2.png",
    "image_today": "https://api.svitlobot.in.ua/timetables/kyiv_oblast/3.2/today.png",
-   "updated_at": "2026-11-23T11:01:47+02:00"
+   "updated_at": "2026-11-23T19:11:46+02:00"
   },
   {
    "region": "kyiv_oblast",
@@ -1366,7 +1366,7 @@
    "file": "kyiv_oblast/4.1.json",
    "image": "https://api.svitlobot.in.ua/timetables/kyiv_oblast/4.1.png",
    "image_today": "https://api.svitlobot.in.ua/timetables/kyiv_oblast/4.1/today.png",
-   "updated_at": "2026-11-23T11:01:47+02:00"
+   "updated_at": "2026-11-23T19:11:46+02:00"
   },
   {
    "region": "kyiv_oblast",
@@ -1375,7 +1375,7 @@
    "file": "kyiv_oblast/4.2.json",
    "image": "https://api.svitlobot.in.ua/timetables/kyiv_oblast/4.2.png",
    "image_today": "https://api.svitlobot.in.ua/timetables/kyiv_oblast/4.2/today.png",
-   "updated_at": "2026-11-23T12:06:46+02:00"
+   "updated_at": "2026-11-23T19:11:46+02:00"
   },
   {
    "region": "kyiv_oblast",
@@ -1384,7 +1384,7 @@
    "file": "kyiv_oblast/5.1.json",
    "image": "https://api.svitlobot.in.ua/timetables/kyiv_oblast/5.1.png",
    "image_today": "https://api.svitlobot.in.ua/timetables/kyiv_oblast/5.1/today.png",
-   "updated_at": "2026-11-23T12:56:49+02:00"
+   "updated_at": "2026-11-23T19:11:46+02:00"
   },
   {
    "region": "kyiv_oblast",
@@ -1393,7 +1393,7 @@
    "file": "kyiv_oblast/5.2.json",
    "image": "https://api.svitlobot.in.ua/timetables/kyiv_oblast/5.2.png",
    "image_today": "https://api.svitlobot.in.ua/timetables/kyiv_oblast/5.2/today.png",
-   "updated_at": "2026-11-23T12:56:49+02:00"
+   "updated_at": "2026-11-23T19:11:46+02:00"
   },
   {
    "region": "kyiv_oblast",
@@ -2050,7 +2050,7 @@
    "file": "vinnytsia/6.1.json",
    "image": "https://api.svitlobot.in.ua/timetables/vinnytsia/6.1.png",
    "image_today": "https://api.svitlobot.in.ua/timetables/vinnytsia/6.1/today.png",
-   "updated_at": "2026-11-23T11:36:47+02:00"
+   "updated_at": "2026-11-23T19:11:46+02:00"
   },
   {
    "region": "vinnytsia",
