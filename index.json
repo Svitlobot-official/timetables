@@ -700,7 +700,7 @@
    "file": "khmelnytskyi/3.1.json",
    "image": "https://api.svitlobot.in.ua/timetables/khmelnytskyi/3.1.png",
    "image_today": "https://api.svitlobot.in.ua/timetables/khmelnytskyi/3.1/today.png",
-   "updated_at": "2026-11-23T21:06:50+02:00"
+   "updated_at": "2026-11-23T23:51:50+02:00"
   },
   {
    "region": "khmelnytskyi",
@@ -709,7 +709,7 @@
    "file": "khmelnytskyi/3.2.json",
    "image": "https://api.svitlobot.in.ua/timetables/khmelnytskyi/3.2.png",
    "image_today": "https://api.svitlobot.in.ua/timetables/khmelnytskyi/3.2/today.png",
-   "updated_at": "2026-11-23T21:06:50+02:00"
+   "updated_at": "2026-11-23T23:51:50+02:00"
   },
   {
    "region": "khmelnytskyi",
@@ -745,7 +745,7 @@
    "file": "khmelnytskyi/5.2.json",
    "image": "https://api.svitlobot.in.ua/timetables/khmelnytskyi/5.2.png",
    "image_today": "https://api.svitlobot.in.ua/timetables/khmelnytskyi/5.2/today.png",
-   "updated_at": "2026-11-23T23:26:50+02:00"
+   "updated_at": "2026-11-23T23:51:50+02:00"
   },
   {
    "region": "khmelnytskyi",
@@ -790,7 +790,7 @@
    "file": "kyiv/3.1.json",
    "image": "https://api.svitlobot.in.ua/timetables/kyiv/3.1.png",
    "image_today": "https://api.svitlobot.in.ua/timetables/kyiv/3.1/today.png",
-   "updated_at": "2026-11-23T20:51:46+02:00"
+   "updated_at": "2026-11-23T23:56:46+02:00"
   },
   {
    "region": "kyiv",
@@ -799,7 +799,7 @@
    "file": "kyiv/4.1.json",
    "image": "https://api.svitlobot.in.ua/timetables/kyiv/4.1.png",
    "image_today": "https://api.svitlobot.in.ua/timetables/kyiv/4.1/today.png",
-   "updated_at": "2026-11-23T20:51:46+02:00"
+   "updated_at": "2026-11-23T23:56:46+02:00"
   },
   {
    "region": "kyiv",
@@ -826,7 +826,7 @@
    "file": "kyiv/7.1.json",
    "image": "https://api.svitlobot.in.ua/timetables/kyiv/7.1.png",
    "image_today": "https://api.svitlobot.in.ua/timetables/kyiv/7.1/today.png",
-   "updated_at": "2026-11-23T20:51:46+02:00"
+   "updated_at": "2026-11-23T23:56:46+02:00"
   },
   {
    "region": "kyiv",
@@ -871,7 +871,7 @@
    "file": "kyiv/12.1.json",
    "image": "https://api.svitlobot.in.ua/timetables/kyiv/12.1.png",
    "image_today": "https://api.svitlobot.in.ua/timetables/kyiv/12.1/today.png",
-   "updated_at": "2026-11-23T20:51:46+02:00"
+   "updated_at": "2026-11-23T23:56:46+02:00"
   },
   {
    "region": "kyiv",
@@ -898,7 +898,7 @@
    "file": "kyiv/15.1.json",
    "image": "https://api.svitlobot.in.ua/timetables/kyiv/15.1.png",
    "image_today": "https://api.svitlobot.in.ua/timetables/kyiv/15.1/today.png",
-   "updated_at": "2026-11-23T20:51:46+02:00"
+   "updated_at": "2026-11-23T23:56:46+02:00"
   },
   {
    "region": "kyiv",
@@ -907,7 +907,7 @@
    "file": "kyiv/16.1.json",
    "image": "https://api.svitlobot.in.ua/timetables/kyiv/16.1.png",
    "image_today": "https://api.svitlobot.in.ua/timetables/kyiv/16.1/today.png",
-   "updated_at": "2026-11-23T20:51:46+02:00"
+   "updated_at": "2026-11-23T23:56:46+02:00"
   },
   {
    "region": "kyiv",
@@ -934,7 +934,7 @@
    "file": "kyiv/19.1.json",
    "image": "https://api.svitlobot.in.ua/timetables/kyiv/19.1.png",
    "image_today": "https://api.svitlobot.in.ua/timetables/kyiv/19.1/today.png",
-   "updated_at": "2026-11-23T20:51:46+02:00"
+   "updated_at": "2026-11-23T23:56:46+02:00"
   },
   {
    "region": "kyiv",
@@ -979,7 +979,7 @@
    "file": "kyiv/24.1.json",
    "image": "https://api.svitlobot.in.ua/timetables/kyiv/24.1.png",
    "image_today": "https://api.svitlobot.in.ua/timetables/kyiv/24.1/today.png",
-   "updated_at": "2026-11-23T20:51:46+02:00"
+   "updated_at": "2026-11-23T23:56:46+02:00"
   },
   {
    "region": "kyiv",
@@ -1006,7 +1006,7 @@
    "file": "kyiv/27.1.json",
    "image": "https://api.svitlobot.in.ua/timetables/kyiv/27.1.png",
    "image_today": "https://api.svitlobot.in.ua/timetables/kyiv/27.1/today.png",
-   "updated_at": "2026-11-23T20:51:46+02:00"
+   "updated_at": "2026-11-23T23:56:46+02:00"
   },
   {
    "region": "kyiv",
@@ -1015,7 +1015,7 @@
    "file": "kyiv/28.1.json",
    "image": "https://api.svitlobot.in.ua/timetables/kyiv/28.1.png",
    "image_today": "https://api.svitlobot.in.ua/timetables/kyiv/28.1/today.png",
-   "updated_at": "2026-11-23T20:51:46+02:00"
+   "updated_at": "2026-11-23T23:56:46+02:00"
   },
   {
    "region": "kyiv",
@@ -1042,7 +1042,7 @@
    "file": "kyiv/31.1.json",
    "image": "https://api.svitlobot.in.ua/timetables/kyiv/31.1.png",
    "image_today": "https://api.svitlobot.in.ua/timetables/kyiv/31.1/today.png",
-   "updated_at": "2026-11-23T20:51:46+02:00"
+   "updated_at": "2026-11-23T23:56:46+02:00"
   },
   {
    "region": "kyiv",
@@ -1087,7 +1087,7 @@
    "file": "kyiv/36.1.json",
    "image": "https://api.svitlobot.in.ua/timetables/kyiv/36.1.png",
    "image_today": "https://api.svitlobot.in.ua/timetables/kyiv/36.1/today.png",
-   "updated_at": "2026-11-23T20:51:46+02:00"
+   "updated_at": "2026-11-23T23:56:46+02:00"
   },
   {
    "region": "kyiv",
@@ -1114,7 +1114,7 @@
    "file": "kyiv/39.1.json",
    "image": "https://api.svitlobot.in.ua/timetables/kyiv/39.1.png",
    "image_today": "https://api.svitlobot.in.ua/timetables/kyiv/39.1/today.png",
-   "updated_at": "2026-11-23T20:51:46+02:00"
+   "updated_at": "2026-11-23T23:56:46+02:00"
   },
   {
    "region": "kyiv",
@@ -1123,7 +1123,7 @@
    "file": "kyiv/40.1.json",
    "image": "https://api.svitlobot.in.ua/timetables/kyiv/40.1.png",
    "image_today": "https://api.svitlobot.in.ua/timetables/kyiv/40.1/today.png",
-   "updated_at": "2026-11-23T20:51:46+02:00"
+   "updated_at": "2026-11-23T23:56:46+02:00"
   },
   {
    "region": "kyiv",
@@ -1150,7 +1150,7 @@
    "file": "kyiv/43.1.json",
    "image": "https://api.svitlobot.in.ua/timetables/kyiv/43.1.png",
    "image_today": "https://api.svitlobot.in.ua/timetables/kyiv/43.1/today.png",
-   "updated_at": "2026-11-23T20:51:46+02:00"
+   "updated_at": "2026-11-23T23:56:46+02:00"
   },
   {
    "region": "kyiv",
@@ -1195,7 +1195,7 @@
    "file": "kyiv/48.1.json",
    "image": "https://api.svitlobot.in.ua/timetables/kyiv/48.1.png",
    "image_today": "https://api.svitlobot.in.ua/timetables/kyiv/48.1/today.png",
-   "updated_at": "2026-11-23T20:51:46+02:00"
+   "updated_at": "2026-11-23T23:56:46+02:00"
   },
   {
    "region": "kyiv",
@@ -1222,7 +1222,7 @@
    "file": "kyiv/51.1.json",
    "image": "https://api.svitlobot.in.ua/timetables/kyiv/51.1.png",
    "image_today": "https://api.svitlobot.in.ua/timetables/kyiv/51.1/today.png",
-   "updated_at": "2026-11-23T20:51:46+02:00"
+   "updated_at": "2026-11-23T23:56:46+02:00"
   },
   {
    "region": "kyiv",
@@ -1231,7 +1231,7 @@
    "file": "kyiv/52.1.json",
    "image": "https://api.svitlobot.in.ua/timetables/kyiv/52.1.png",
    "image_today": "https://api.svitlobot.in.ua/timetables/kyiv/52.1/today.png",
-   "updated_at": "2026-11-23T20:51:46+02:00"
+   "updated_at": "2026-11-23T23:56:46+02:00"
   },
   {
    "region": "kyiv",
@@ -1258,7 +1258,7 @@
    "file": "kyiv/55.1.json",
    "image": "https://api.svitlobot.in.ua/timetables/kyiv/55.1.png",
    "image_today": "https://api.svitlobot.in.ua/timetables/kyiv/55.1/today.png",
-   "updated_at": "2026-11-23T20:51:46+02:00"
+   "updated_at": "2026-11-23T23:56:46+02:00"
   },
   {
    "region": "kyiv",
@@ -1303,7 +1303,7 @@
    "file": "kyiv/60.1.json",
    "image": "https://api.svitlobot.in.ua/timetables/kyiv/60.1.png",
    "image_today": "https://api.svitlobot.in.ua/timetables/kyiv/60.1/today.png",
-   "updated_at": "2026-11-23T20:51:46+02:00"
+   "updated_at": "2026-11-23T23:56:46+02:00"
   },
   {
    "region": "kyiv_oblast",
