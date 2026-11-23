@@ -700,7 +700,7 @@
    "file": "khmelnytskyi/3.1.json",
    "image": "https://api.svitlobot.in.ua/timetables/khmelnytskyi/3.1.png",
    "image_today": "https://api.svitlobot.in.ua/timetables/khmelnytskyi/3.1/today.png",
-   "updated_at": "2026-11-23T04:01:51+02:00"
+   "updated_at": "2026-11-23T10:41:50+02:00"
   },
   {
    "region": "khmelnytskyi",
@@ -709,7 +709,7 @@
    "file": "khmelnytskyi/3.2.json",
    "image": "https://api.svitlobot.in.ua/timetables/khmelnytskyi/3.2.png",
    "image_today": "https://api.svitlobot.in.ua/timetables/khmelnytskyi/3.2/today.png",
-   "updated_at": "2026-11-23T04:01:51+02:00"
+   "updated_at": "2026-11-23T10:41:50+02:00"
   },
   {
    "region": "khmelnytskyi",
@@ -745,7 +745,7 @@
    "file": "khmelnytskyi/5.2.json",
    "image": "https://api.svitlobot.in.ua/timetables/khmelnytskyi/5.2.png",
    "image_today": "https://api.svitlobot.in.ua/timetables/khmelnytskyi/5.2/today.png",
-   "updated_at": "2026-11-23T04:01:51+02:00"
+   "updated_at": "2026-11-23T10:41:50+02:00"
   },
   {
    "region": "khmelnytskyi",
@@ -763,7 +763,7 @@
    "file": "khmelnytskyi/6.2.json",
    "image": "https://api.svitlobot.in.ua/timetables/khmelnytskyi/6.2.png",
    "image_today": "https://api.svitlobot.in.ua/timetables/khmelnytskyi/6.2/today.png",
-   "updated_at": "2026-11-23T04:01:51+02:00"
+   "updated_at": "2026-11-23T10:41:50+02:00"
   },
   {
    "region": "kyiv",
@@ -2284,7 +2284,7 @@
    "file": "zhytomyr/1.1.json",
    "image": "https://api.svitlobot.in.ua/timetables/zhytomyr/1.1.png",
    "image_today": "https://api.svitlobot.in.ua/timetables/zhytomyr/1.1/today.png",
-   "updated_at": "2026-11-23T04:01:51+02:00"
+   "updated_at": "2026-11-23T10:41:50+02:00"
   },
   {
    "region": "zhytomyr",
@@ -2347,7 +2347,7 @@
    "file": "zhytomyr/4.2.json",
    "image": "https://api.svitlobot.in.ua/timetables/zhytomyr/4.2.png",
    "image_today": "https://api.svitlobot.in.ua/timetables/zhytomyr/4.2/today.png",
-   "updated_at": "2026-11-23T10:36:50+02:00"
+   "updated_at": "2026-11-23T10:41:50+02:00"
   },
   {
    "region": "zhytomyr",
