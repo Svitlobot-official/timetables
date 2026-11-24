@@ -228,6 +228,15 @@
   {
    "region": "dnipro_cek",
    "region_name": "Дніпро та область — ЦЕК",
+   "group": "1",
+   "file": "dnipro_cek/1.json",
+   "image": "https://api.svitlobot.in.ua/timetables/dnipro_cek/1.png",
+   "image_today": "https://api.svitlobot.in.ua/timetables/dnipro_cek/1/today.png",
+   "updated_at": "2026-11-24T14:40:55+02:00"
+  },
+  {
+   "region": "dnipro_cek",
+   "region_name": "Дніпро та область — ЦЕК",
    "group": "1.1",
    "file": "dnipro_cek/1.1.json",
    "image": "https://api.svitlobot.in.ua/timetables/dnipro_cek/1.1.png",
@@ -246,6 +255,15 @@
   {
    "region": "dnipro_cek",
    "region_name": "Дніпро та область — ЦЕК",
+   "group": "2",
+   "file": "dnipro_cek/2.json",
+   "image": "https://api.svitlobot.in.ua/timetables/dnipro_cek/2.png",
+   "image_today": "https://api.svitlobot.in.ua/timetables/dnipro_cek/2/today.png",
+   "updated_at": "2026-11-24T14:40:55+02:00"
+  },
+  {
+   "region": "dnipro_cek",
+   "region_name": "Дніпро та область — ЦЕК",
    "group": "2.1",
    "file": "dnipro_cek/2.1.json",
    "image": "https://api.svitlobot.in.ua/timetables/dnipro_cek/2.1.png",
@@ -260,6 +278,15 @@
    "image": "https://api.svitlobot.in.ua/timetables/dnipro_cek/2.2.png",
    "image_today": "https://api.svitlobot.in.ua/timetables/dnipro_cek/2.2/today.png",
    "updated_at": "2026-11-24T01:01:49+02:00"
+  },
+  {
+   "region": "dnipro_cek",
+   "region_name": "Дніпро та область — ЦЕК",
+   "group": "3",
+   "file": "dnipro_cek/3.json",
+   "image": "https://api.svitlobot.in.ua/timetables/dnipro_cek/3.png",
+   "image_today": "https://api.svitlobot.in.ua/timetables/dnipro_cek/3/today.png",
+   "updated_at": "2026-11-24T14:40:55+02:00"
   },
   {
    "region": "dnipro_cek",
