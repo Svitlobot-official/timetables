@@ -520,7 +520,7 @@
    "file": "ivano_frankivsk/5.1.json",
    "image": "https://api.svitlobot.in.ua/timetables/ivano_frankivsk/5.1.png",
    "image_today": "https://api.svitlobot.in.ua/timetables/ivano_frankivsk/5.1/today.png",
-   "updated_at": "2026-11-23T21:01:51+02:00"
+   "updated_at": "2026-11-24T10:51:52+02:00"
   },
   {
    "region": "ivano_frankivsk",
@@ -547,7 +547,7 @@
    "file": "ivano_frankivsk/6.2.json",
    "image": "https://api.svitlobot.in.ua/timetables/ivano_frankivsk/6.2.png",
    "image_today": "https://api.svitlobot.in.ua/timetables/ivano_frankivsk/6.2/today.png",
-   "updated_at": "2026-11-23T21:01:51+02:00"
+   "updated_at": "2026-11-24T10:51:52+02:00"
   },
   {
    "region": "kharkiv",
@@ -2050,7 +2050,7 @@
    "file": "vinnytsia/6.1.json",
    "image": "https://api.svitlobot.in.ua/timetables/vinnytsia/6.1.png",
    "image_today": "https://api.svitlobot.in.ua/timetables/vinnytsia/6.1/today.png",
-   "updated_at": "2026-11-23T20:01:51+02:00"
+   "updated_at": "2026-11-24T10:56:48+02:00"
   },
   {
    "region": "vinnytsia",
@@ -2059,7 +2059,7 @@
    "file": "vinnytsia/6.2.json",
    "image": "https://api.svitlobot.in.ua/timetables/vinnytsia/6.2.png",
    "image_today": "https://api.svitlobot.in.ua/timetables/vinnytsia/6.2/today.png",
-   "updated_at": "2026-11-23T20:01:51+02:00"
+   "updated_at": "2026-11-24T10:56:48+02:00"
   },
   {
    "region": "zakarpattia",
