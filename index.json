@@ -1879,7 +1879,7 @@
    "file": "ternopil/1.1.json",
    "image": "https://api.svitlobot.in.ua/timetables/ternopil/1.1.png",
    "image_today": "https://api.svitlobot.in.ua/timetables/ternopil/1.1/today.png",
-   "updated_at": "2026-11-25T03:21:56+02:00"
+   "updated_at": "2026-11-25T11:46:50+02:00"
   },
   {
    "region": "ternopil",
@@ -1897,7 +1897,7 @@
    "file": "ternopil/2.1.json",
    "image": "https://api.svitlobot.in.ua/timetables/ternopil/2.1.png",
    "image_today": "https://api.svitlobot.in.ua/timetables/ternopil/2.1/today.png",
-   "updated_at": "2026-11-24T21:55:59+02:00"
+   "updated_at": "2026-11-25T11:46:50+02:00"
   },
   {
    "region": "ternopil",
@@ -1906,7 +1906,7 @@
    "file": "ternopil/2.2.json",
    "image": "https://api.svitlobot.in.ua/timetables/ternopil/2.2.png",
    "image_today": "https://api.svitlobot.in.ua/timetables/ternopil/2.2/today.png",
-   "updated_at": "2026-11-24T21:55:59+02:00"
+   "updated_at": "2026-11-25T11:46:50+02:00"
   },
   {
    "region": "ternopil",
@@ -1915,7 +1915,7 @@
    "file": "ternopil/3.1.json",
    "image": "https://api.svitlobot.in.ua/timetables/ternopil/3.1.png",
    "image_today": "https://api.svitlobot.in.ua/timetables/ternopil/3.1/today.png",
-   "updated_at": "2026-11-25T02:16:51+02:00"
+   "updated_at": "2026-11-25T11:46:50+02:00"
   },
   {
    "region": "ternopil",
@@ -1960,7 +1960,7 @@
    "file": "ternopil/5.2.json",
    "image": "https://api.svitlobot.in.ua/timetables/ternopil/5.2.png",
    "image_today": "https://api.svitlobot.in.ua/timetables/ternopil/5.2/today.png",
-   "updated_at": "2026-11-25T00:01:50+02:00"
+   "updated_at": "2026-11-25T11:46:50+02:00"
   },
   {
    "region": "ternopil",
@@ -2023,7 +2023,7 @@
    "file": "vinnytsia/3.1.json",
    "image": "https://api.svitlobot.in.ua/timetables/vinnytsia/3.1.png",
    "image_today": "https://api.svitlobot.in.ua/timetables/vinnytsia/3.1/today.png",
-   "updated_at": "2026-11-24T19:55:58+02:00"
+   "updated_at": "2026-11-25T11:46:50+02:00"
   },
   {
    "region": "vinnytsia",
@@ -2032,7 +2032,7 @@
    "file": "vinnytsia/3.2.json",
    "image": "https://api.svitlobot.in.ua/timetables/vinnytsia/3.2.png",
    "image_today": "https://api.svitlobot.in.ua/timetables/vinnytsia/3.2/today.png",
-   "updated_at": "2026-11-24T19:55:58+02:00"
+   "updated_at": "2026-11-25T11:46:50+02:00"
   },
   {
    "region": "vinnytsia",
@@ -2077,7 +2077,7 @@
    "file": "vinnytsia/6.1.json",
    "image": "https://api.svitlobot.in.ua/timetables/vinnytsia/6.1.png",
    "image_today": "https://api.svitlobot.in.ua/timetables/vinnytsia/6.1/today.png",
-   "updated_at": "2026-11-25T03:46:47+02:00"
+   "updated_at": "2026-11-25T11:46:50+02:00"
   },
   {
    "region": "vinnytsia",
