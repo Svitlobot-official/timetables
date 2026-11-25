@@ -529,7 +529,7 @@
    "file": "ivano_frankivsk/4.1.json",
    "image": "https://api.svitlobot.in.ua/timetables/ivano_frankivsk/4.1.png",
    "image_today": "https://api.svitlobot.in.ua/timetables/ivano_frankivsk/4.1/today.png",
-   "updated_at": "2026-11-24T22:05:57+02:00"
+   "updated_at": "2026-11-25T12:26:51+02:00"
   },
   {
    "region": "ivano_frankivsk",
@@ -565,7 +565,7 @@
    "file": "ivano_frankivsk/6.1.json",
    "image": "https://api.svitlobot.in.ua/timetables/ivano_frankivsk/6.1.png",
    "image_today": "https://api.svitlobot.in.ua/timetables/ivano_frankivsk/6.1/today.png",
-   "updated_at": "2026-11-25T06:56:49+02:00"
+   "updated_at": "2026-11-25T12:26:51+02:00"
   },
   {
    "region": "ivano_frankivsk",
@@ -1879,7 +1879,7 @@
    "file": "ternopil/1.1.json",
    "image": "https://api.svitlobot.in.ua/timetables/ternopil/1.1.png",
    "image_today": "https://api.svitlobot.in.ua/timetables/ternopil/1.1/today.png",
-   "updated_at": "2026-11-25T11:46:50+02:00"
+   "updated_at": "2026-11-25T12:26:51+02:00"
   },
   {
    "region": "ternopil",
@@ -1924,7 +1924,7 @@
    "file": "ternopil/3.2.json",
    "image": "https://api.svitlobot.in.ua/timetables/ternopil/3.2.png",
    "image_today": "https://api.svitlobot.in.ua/timetables/ternopil/3.2/today.png",
-   "updated_at": "2026-11-25T00:01:50+02:00"
+   "updated_at": "2026-11-25T12:26:51+02:00"
   },
   {
    "region": "ternopil",
@@ -1933,7 +1933,7 @@
    "file": "ternopil/4.1.json",
    "image": "https://api.svitlobot.in.ua/timetables/ternopil/4.1.png",
    "image_today": "https://api.svitlobot.in.ua/timetables/ternopil/4.1/today.png",
-   "updated_at": "2026-11-25T07:11:50+02:00"
+   "updated_at": "2026-11-25T12:26:51+02:00"
   },
   {
    "region": "ternopil",
@@ -1951,7 +1951,7 @@
    "file": "ternopil/5.1.json",
    "image": "https://api.svitlobot.in.ua/timetables/ternopil/5.1.png",
    "image_today": "https://api.svitlobot.in.ua/timetables/ternopil/5.1/today.png",
-   "updated_at": "2026-11-24T21:55:59+02:00"
+   "updated_at": "2026-11-25T12:26:51+02:00"
   },
   {
    "region": "ternopil",
