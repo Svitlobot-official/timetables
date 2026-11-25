@@ -160,7 +160,7 @@
    "file": "chernihiv/3.1.json",
    "image": "https://api.svitlobot.in.ua/timetables/chernihiv/3.1.png",
    "image_today": "https://api.svitlobot.in.ua/timetables/chernihiv/3.1/today.png",
-   "updated_at": "2026-11-25T00:11:50+02:00"
+   "updated_at": "2026-11-25T21:16:51+02:00"
   },
   {
    "region": "chernihiv",
@@ -169,7 +169,7 @@
    "file": "chernihiv/3.2.json",
    "image": "https://api.svitlobot.in.ua/timetables/chernihiv/3.2.png",
    "image_today": "https://api.svitlobot.in.ua/timetables/chernihiv/3.2/today.png",
-   "updated_at": "2026-11-24T21:35:57+02:00"
+   "updated_at": "2026-11-25T21:16:51+02:00"
   },
   {
    "region": "chernihiv",
