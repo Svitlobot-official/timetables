@@ -493,7 +493,7 @@
    "file": "ivano_frankivsk/2.1.json",
    "image": "https://api.svitlobot.in.ua/timetables/ivano_frankivsk/2.1.png",
    "image_today": "https://api.svitlobot.in.ua/timetables/ivano_frankivsk/2.1/today.png",
-   "updated_at": "2026-11-26T00:58:16+02:00"
+   "updated_at": "2026-11-26T10:38:18+02:00"
   },
   {
    "region": "ivano_frankivsk",
@@ -511,7 +511,7 @@
    "file": "ivano_frankivsk/3.1.json",
    "image": "https://api.svitlobot.in.ua/timetables/ivano_frankivsk/3.1.png",
    "image_today": "https://api.svitlobot.in.ua/timetables/ivano_frankivsk/3.1/today.png",
-   "updated_at": "2026-11-25T22:21:51+02:00"
+   "updated_at": "2026-11-26T10:38:18+02:00"
   },
   {
    "region": "ivano_frankivsk",
@@ -547,7 +547,7 @@
    "file": "ivano_frankivsk/5.1.json",
    "image": "https://api.svitlobot.in.ua/timetables/ivano_frankivsk/5.1.png",
    "image_today": "https://api.svitlobot.in.ua/timetables/ivano_frankivsk/5.1/today.png",
-   "updated_at": "2026-11-25T22:21:51+02:00"
+   "updated_at": "2026-11-26T10:38:18+02:00"
   },
   {
    "region": "ivano_frankivsk",
@@ -1879,7 +1879,7 @@
    "file": "ternopil/1.1.json",
    "image": "https://api.svitlobot.in.ua/timetables/ternopil/1.1.png",
    "image_today": "https://api.svitlobot.in.ua/timetables/ternopil/1.1/today.png",
-   "updated_at": "2026-11-25T23:06:51+02:00"
+   "updated_at": "2026-11-26T10:38:18+02:00"
   },
   {
    "region": "ternopil",
