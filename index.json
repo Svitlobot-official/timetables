@@ -16,7 +16,7 @@
    "file": "cherkasy/1.1.json",
    "image": "https://api.svitlobot.in.ua/timetables/cherkasy/1.1.png",
    "image_today": "https://api.svitlobot.in.ua/timetables/cherkasy/1.1/today.png",
-   "updated_at": "2026-11-25T22:36:50+02:00"
+   "updated_at": "2026-11-26T22:18:24+02:00"
   },
   {
    "region": "cherkasy",
@@ -25,7 +25,7 @@
    "file": "cherkasy/1.2.json",
    "image": "https://api.svitlobot.in.ua/timetables/cherkasy/1.2.png",
    "image_today": "https://api.svitlobot.in.ua/timetables/cherkasy/1.2/today.png",
-   "updated_at": "2026-11-25T22:36:50+02:00"
+   "updated_at": "2026-11-26T22:18:24+02:00"
   },
   {
    "region": "cherkasy",
@@ -34,7 +34,7 @@
    "file": "cherkasy/2.1.json",
    "image": "https://api.svitlobot.in.ua/timetables/cherkasy/2.1.png",
    "image_today": "https://api.svitlobot.in.ua/timetables/cherkasy/2.1/today.png",
-   "updated_at": "2026-11-25T22:36:50+02:00"
+   "updated_at": "2026-11-26T22:18:24+02:00"
   },
   {
    "region": "cherkasy",
@@ -43,7 +43,7 @@
    "file": "cherkasy/2.2.json",
    "image": "https://api.svitlobot.in.ua/timetables/cherkasy/2.2.png",
    "image_today": "https://api.svitlobot.in.ua/timetables/cherkasy/2.2/today.png",
-   "updated_at": "2026-11-25T22:36:50+02:00"
+   "updated_at": "2026-11-26T22:18:24+02:00"
   },
   {
    "region": "cherkasy",
@@ -52,7 +52,7 @@
    "file": "cherkasy/3.1.json",
    "image": "https://api.svitlobot.in.ua/timetables/cherkasy/3.1.png",
    "image_today": "https://api.svitlobot.in.ua/timetables/cherkasy/3.1/today.png",
-   "updated_at": "2026-11-25T22:36:50+02:00"
+   "updated_at": "2026-11-26T22:18:24+02:00"
   },
   {
    "region": "cherkasy",
@@ -61,7 +61,7 @@
    "file": "cherkasy/3.2.json",
    "image": "https://api.svitlobot.in.ua/timetables/cherkasy/3.2.png",
    "image_today": "https://api.svitlobot.in.ua/timetables/cherkasy/3.2/today.png",
-   "updated_at": "2026-11-25T22:36:50+02:00"
+   "updated_at": "2026-11-26T22:18:24+02:00"
   },
   {
    "region": "cherkasy",
@@ -70,7 +70,7 @@
    "file": "cherkasy/4.1.json",
    "image": "https://api.svitlobot.in.ua/timetables/cherkasy/4.1.png",
    "image_today": "https://api.svitlobot.in.ua/timetables/cherkasy/4.1/today.png",
-   "updated_at": "2026-11-25T22:36:50+02:00"
+   "updated_at": "2026-11-26T22:18:24+02:00"
   },
   {
    "region": "cherkasy",
@@ -79,7 +79,7 @@
    "file": "cherkasy/4.2.json",
    "image": "https://api.svitlobot.in.ua/timetables/cherkasy/4.2.png",
    "image_today": "https://api.svitlobot.in.ua/timetables/cherkasy/4.2/today.png",
-   "updated_at": "2026-11-25T22:36:50+02:00"
+   "updated_at": "2026-11-26T22:18:24+02:00"
   },
   {
    "region": "cherkasy",
@@ -88,7 +88,7 @@
    "file": "cherkasy/5.1.json",
    "image": "https://api.svitlobot.in.ua/timetables/cherkasy/5.1.png",
    "image_today": "https://api.svitlobot.in.ua/timetables/cherkasy/5.1/today.png",
-   "updated_at": "2026-11-25T22:36:50+02:00"
+   "updated_at": "2026-11-26T22:18:24+02:00"
   },
   {
    "region": "cherkasy",
@@ -97,7 +97,7 @@
    "file": "cherkasy/5.2.json",
    "image": "https://api.svitlobot.in.ua/timetables/cherkasy/5.2.png",
    "image_today": "https://api.svitlobot.in.ua/timetables/cherkasy/5.2/today.png",
-   "updated_at": "2026-11-25T22:36:50+02:00"
+   "updated_at": "2026-11-26T22:18:24+02:00"
   },
   {
    "region": "cherkasy",
@@ -106,7 +106,7 @@
    "file": "cherkasy/6.1.json",
    "image": "https://api.svitlobot.in.ua/timetables/cherkasy/6.1.png",
    "image_today": "https://api.svitlobot.in.ua/timetables/cherkasy/6.1/today.png",
-   "updated_at": "2026-11-25T22:36:50+02:00"
+   "updated_at": "2026-11-26T22:18:24+02:00"
   },
   {
    "region": "cherkasy",
@@ -115,7 +115,7 @@
    "file": "cherkasy/6.2.json",
    "image": "https://api.svitlobot.in.ua/timetables/cherkasy/6.2.png",
    "image_today": "https://api.svitlobot.in.ua/timetables/cherkasy/6.2/today.png",
-   "updated_at": "2026-11-25T22:36:50+02:00"
+   "updated_at": "2026-11-26T22:18:24+02:00"
   },
   {
    "region": "chernihiv",
@@ -1771,7 +1771,7 @@
    "file": "rivne/1.1.json",
    "image": "https://api.svitlobot.in.ua/timetables/rivne/1.1.png",
    "image_today": "https://api.svitlobot.in.ua/timetables/rivne/1.1/today.png",
-   "updated_at": "2026-11-25T22:46:52+02:00"
+   "updated_at": "2026-11-26T22:18:24+02:00"
   },
   {
    "region": "rivne",
@@ -1780,7 +1780,7 @@
    "file": "rivne/1.2.json",
    "image": "https://api.svitlobot.in.ua/timetables/rivne/1.2.png",
    "image_today": "https://api.svitlobot.in.ua/timetables/rivne/1.2/today.png",
-   "updated_at": "2026-11-25T22:46:52+02:00"
+   "updated_at": "2026-11-26T22:18:24+02:00"
   },
   {
    "region": "rivne",
@@ -1789,7 +1789,7 @@
    "file": "rivne/2.1.json",
    "image": "https://api.svitlobot.in.ua/timetables/rivne/2.1.png",
    "image_today": "https://api.svitlobot.in.ua/timetables/rivne/2.1/today.png",
-   "updated_at": "2026-11-25T22:46:52+02:00"
+   "updated_at": "2026-11-26T22:18:24+02:00"
   },
   {
    "region": "rivne",
@@ -1798,7 +1798,7 @@
    "file": "rivne/2.2.json",
    "image": "https://api.svitlobot.in.ua/timetables/rivne/2.2.png",
    "image_today": "https://api.svitlobot.in.ua/timetables/rivne/2.2/today.png",
-   "updated_at": "2026-11-25T22:46:52+02:00"
+   "updated_at": "2026-11-26T22:18:24+02:00"
   },
   {
    "region": "rivne",
@@ -1807,7 +1807,7 @@
    "file": "rivne/3.1.json",
    "image": "https://api.svitlobot.in.ua/timetables/rivne/3.1.png",
    "image_today": "https://api.svitlobot.in.ua/timetables/rivne/3.1/today.png",
-   "updated_at": "2026-11-25T22:46:52+02:00"
+   "updated_at": "2026-11-26T22:18:24+02:00"
   },
   {
    "region": "rivne",
@@ -1816,7 +1816,7 @@
    "file": "rivne/3.2.json",
    "image": "https://api.svitlobot.in.ua/timetables/rivne/3.2.png",
    "image_today": "https://api.svitlobot.in.ua/timetables/rivne/3.2/today.png",
-   "updated_at": "2026-11-25T22:46:52+02:00"
+   "updated_at": "2026-11-26T22:18:24+02:00"
   },
   {
    "region": "rivne",
@@ -1825,7 +1825,7 @@
    "file": "rivne/4.1.json",
    "image": "https://api.svitlobot.in.ua/timetables/rivne/4.1.png",
    "image_today": "https://api.svitlobot.in.ua/timetables/rivne/4.1/today.png",
-   "updated_at": "2026-11-25T22:46:52+02:00"
+   "updated_at": "2026-11-26T22:18:24+02:00"
   },
   {
    "region": "rivne",
@@ -1834,7 +1834,7 @@
    "file": "rivne/4.2.json",
    "image": "https://api.svitlobot.in.ua/timetables/rivne/4.2.png",
    "image_today": "https://api.svitlobot.in.ua/timetables/rivne/4.2/today.png",
-   "updated_at": "2026-11-25T22:46:52+02:00"
+   "updated_at": "2026-11-26T22:18:24+02:00"
   },
   {
    "region": "rivne",
@@ -1843,7 +1843,7 @@
    "file": "rivne/5.1.json",
    "image": "https://api.svitlobot.in.ua/timetables/rivne/5.1.png",
    "image_today": "https://api.svitlobot.in.ua/timetables/rivne/5.1/today.png",
-   "updated_at": "2026-11-25T22:46:52+02:00"
+   "updated_at": "2026-11-26T22:18:24+02:00"
   },
   {
    "region": "rivne",
@@ -1852,7 +1852,7 @@
    "file": "rivne/5.2.json",
    "image": "https://api.svitlobot.in.ua/timetables/rivne/5.2.png",
    "image_today": "https://api.svitlobot.in.ua/timetables/rivne/5.2/today.png",
-   "updated_at": "2026-11-25T22:46:52+02:00"
+   "updated_at": "2026-11-26T22:18:24+02:00"
   },
   {
    "region": "rivne",
@@ -1861,7 +1861,7 @@
    "file": "rivne/6.1.json",
    "image": "https://api.svitlobot.in.ua/timetables/rivne/6.1.png",
    "image_today": "https://api.svitlobot.in.ua/timetables/rivne/6.1/today.png",
-   "updated_at": "2026-11-25T22:46:52+02:00"
+   "updated_at": "2026-11-26T22:18:24+02:00"
   },
   {
    "region": "rivne",
@@ -1870,7 +1870,7 @@
    "file": "rivne/6.2.json",
    "image": "https://api.svitlobot.in.ua/timetables/rivne/6.2.png",
    "image_today": "https://api.svitlobot.in.ua/timetables/rivne/6.2/today.png",
-   "updated_at": "2026-11-25T22:46:52+02:00"
+   "updated_at": "2026-11-26T22:18:24+02:00"
   },
   {
    "region": "ternopil",
@@ -2311,7 +2311,7 @@
    "file": "zhytomyr/1.1.json",
    "image": "https://api.svitlobot.in.ua/timetables/zhytomyr/1.1.png",
    "image_today": "https://api.svitlobot.in.ua/timetables/zhytomyr/1.1/today.png",
-   "updated_at": "2026-11-26T09:48:17+02:00"
+   "updated_at": "2026-11-26T22:18:24+02:00"
   },
   {
    "region": "zhytomyr",
@@ -2320,7 +2320,7 @@
    "file": "zhytomyr/1.2.json",
    "image": "https://api.svitlobot.in.ua/timetables/zhytomyr/1.2.png",
    "image_today": "https://api.svitlobot.in.ua/timetables/zhytomyr/1.2/today.png",
-   "updated_at": "2026-11-26T09:53:19+02:00"
+   "updated_at": "2026-11-26T22:18:24+02:00"
   },
   {
    "region": "zhytomyr",
@@ -2329,7 +2329,7 @@
    "file": "zhytomyr/2.1.json",
    "image": "https://api.svitlobot.in.ua/timetables/zhytomyr/2.1.png",
    "image_today": "https://api.svitlobot.in.ua/timetables/zhytomyr/2.1/today.png",
-   "updated_at": "2026-11-26T14:38:18+02:00"
+   "updated_at": "2026-11-26T22:18:24+02:00"
   },
   {
    "region": "zhytomyr",
@@ -2338,7 +2338,7 @@
    "file": "zhytomyr/2.2.json",
    "image": "https://api.svitlobot.in.ua/timetables/zhytomyr/2.2.png",
    "image_today": "https://api.svitlobot.in.ua/timetables/zhytomyr/2.2/today.png",
-   "updated_at": "2026-11-26T16:33:17+02:00"
+   "updated_at": "2026-11-26T22:18:24+02:00"
   },
   {
    "region": "zhytomyr",
@@ -2347,7 +2347,7 @@
    "file": "zhytomyr/3.1.json",
    "image": "https://api.svitlobot.in.ua/timetables/zhytomyr/3.1.png",
    "image_today": "https://api.svitlobot.in.ua/timetables/zhytomyr/3.1/today.png",
-   "updated_at": "2026-11-26T09:53:19+02:00"
+   "updated_at": "2026-11-26T22:18:24+02:00"
   },
   {
    "region": "zhytomyr",
@@ -2356,7 +2356,7 @@
    "file": "zhytomyr/3.2.json",
    "image": "https://api.svitlobot.in.ua/timetables/zhytomyr/3.2.png",
    "image_today": "https://api.svitlobot.in.ua/timetables/zhytomyr/3.2/today.png",
-   "updated_at": "2026-11-26T09:53:19+02:00"
+   "updated_at": "2026-11-26T22:18:24+02:00"
   },
   {
    "region": "zhytomyr",
@@ -2365,7 +2365,7 @@
    "file": "zhytomyr/4.1.json",
    "image": "https://api.svitlobot.in.ua/timetables/zhytomyr/4.1.png",
    "image_today": "https://api.svitlobot.in.ua/timetables/zhytomyr/4.1/today.png",
-   "updated_at": "2026-11-25T21:46:52+02:00"
+   "updated_at": "2026-11-26T22:18:24+02:00"
   },
   {
    "region": "zhytomyr",
@@ -2374,7 +2374,7 @@
    "file": "zhytomyr/4.2.json",
    "image": "https://api.svitlobot.in.ua/timetables/zhytomyr/4.2.png",
    "image_today": "https://api.svitlobot.in.ua/timetables/zhytomyr/4.2/today.png",
-   "updated_at": "2026-11-25T21:46:52+02:00"
+   "updated_at": "2026-11-26T22:18:24+02:00"
   },
   {
    "region": "zhytomyr",
@@ -2383,7 +2383,7 @@
    "file": "zhytomyr/5.1.json",
    "image": "https://api.svitlobot.in.ua/timetables/zhytomyr/5.1.png",
    "image_today": "https://api.svitlobot.in.ua/timetables/zhytomyr/5.1/today.png",
-   "updated_at": "2026-11-25T21:46:52+02:00"
+   "updated_at": "2026-11-26T22:18:24+02:00"
   },
   {
    "region": "zhytomyr",
@@ -2392,7 +2392,7 @@
    "file": "zhytomyr/5.2.json",
    "image": "https://api.svitlobot.in.ua/timetables/zhytomyr/5.2.png",
    "image_today": "https://api.svitlobot.in.ua/timetables/zhytomyr/5.2/today.png",
-   "updated_at": "2026-11-26T16:33:17+02:00"
+   "updated_at": "2026-11-26T22:18:24+02:00"
   },
   {
    "region": "zhytomyr",
@@ -2401,7 +2401,7 @@
    "file": "zhytomyr/6.1.json",
    "image": "https://api.svitlobot.in.ua/timetables/zhytomyr/6.1.png",
    "image_today": "https://api.svitlobot.in.ua/timetables/zhytomyr/6.1/today.png",
-   "updated_at": "2026-11-25T21:46:52+02:00"
+   "updated_at": "2026-11-26T22:18:24+02:00"
   },
   {
    "region": "zhytomyr",
@@ -2410,7 +2410,7 @@
    "file": "zhytomyr/6.2.json",
    "image": "https://api.svitlobot.in.ua/timetables/zhytomyr/6.2.png",
    "image_today": "https://api.svitlobot.in.ua/timetables/zhytomyr/6.2/today.png",
-   "updated_at": "2026-11-25T21:46:52+02:00"
+   "updated_at": "2026-11-26T22:18:24+02:00"
   }
  ]
 }
