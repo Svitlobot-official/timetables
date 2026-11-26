@@ -1510,7 +1510,7 @@
    "file": "lviv/4.2.json",
    "image": "https://api.svitlobot.in.ua/timetables/lviv/4.2.png",
    "image_today": "https://api.svitlobot.in.ua/timetables/lviv/4.2/today.png",
-   "updated_at": "2026-11-25T22:16:52+02:00"
+   "updated_at": "2026-11-26T10:23:16+02:00"
   },
   {
    "region": "lviv",
@@ -1546,7 +1546,7 @@
    "file": "lviv/6.2.json",
    "image": "https://api.svitlobot.in.ua/timetables/lviv/6.2.png",
    "image_today": "https://api.svitlobot.in.ua/timetables/lviv/6.2/today.png",
-   "updated_at": "2026-11-25T22:16:52+02:00"
+   "updated_at": "2026-11-26T10:23:16+02:00"
   },
   {
    "region": "odesa",
