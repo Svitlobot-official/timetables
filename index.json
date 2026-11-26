@@ -484,7 +484,7 @@
    "file": "ivano_frankivsk/1.2.json",
    "image": "https://api.svitlobot.in.ua/timetables/ivano_frankivsk/1.2.png",
    "image_today": "https://api.svitlobot.in.ua/timetables/ivano_frankivsk/1.2/today.png",
-   "updated_at": "2026-11-26T00:58:16+02:00"
+   "updated_at": "2026-11-26T16:33:17+02:00"
   },
   {
    "region": "ivano_frankivsk",
@@ -1357,7 +1357,7 @@
    "file": "kyiv_oblast/2.1.json",
    "image": "https://api.svitlobot.in.ua/timetables/kyiv_oblast/2.1.png",
    "image_today": "https://api.svitlobot.in.ua/timetables/kyiv_oblast/2.1/today.png",
-   "updated_at": "2026-11-26T01:03:14+02:00"
+   "updated_at": "2026-11-26T16:33:17+02:00"
   },
   {
    "region": "kyiv_oblast",
@@ -1375,7 +1375,7 @@
    "file": "kyiv_oblast/3.1.json",
    "image": "https://api.svitlobot.in.ua/timetables/kyiv_oblast/3.1.png",
    "image_today": "https://api.svitlobot.in.ua/timetables/kyiv_oblast/3.1/today.png",
-   "updated_at": "2026-11-25T22:26:51+02:00"
+   "updated_at": "2026-11-26T16:33:17+02:00"
   },
   {
    "region": "kyiv_oblast",
@@ -1384,7 +1384,7 @@
    "file": "kyiv_oblast/3.2.json",
    "image": "https://api.svitlobot.in.ua/timetables/kyiv_oblast/3.2.png",
    "image_today": "https://api.svitlobot.in.ua/timetables/kyiv_oblast/3.2/today.png",
-   "updated_at": "2026-11-25T22:26:51+02:00"
+   "updated_at": "2026-11-26T16:33:17+02:00"
   },
   {
    "region": "kyiv_oblast",
@@ -1879,7 +1879,7 @@
    "file": "ternopil/1.1.json",
    "image": "https://api.svitlobot.in.ua/timetables/ternopil/1.1.png",
    "image_today": "https://api.svitlobot.in.ua/timetables/ternopil/1.1/today.png",
-   "updated_at": "2026-11-26T13:03:16+02:00"
+   "updated_at": "2026-11-26T16:33:17+02:00"
   },
   {
    "region": "ternopil",
@@ -1897,7 +1897,7 @@
    "file": "ternopil/2.1.json",
    "image": "https://api.svitlobot.in.ua/timetables/ternopil/2.1.png",
    "image_today": "https://api.svitlobot.in.ua/timetables/ternopil/2.1/today.png",
-   "updated_at": "2026-11-26T09:23:17+02:00"
+   "updated_at": "2026-11-26T16:33:17+02:00"
   },
   {
    "region": "ternopil",
@@ -1933,7 +1933,7 @@
    "file": "ternopil/4.1.json",
    "image": "https://api.svitlobot.in.ua/timetables/ternopil/4.1.png",
    "image_today": "https://api.svitlobot.in.ua/timetables/ternopil/4.1/today.png",
-   "updated_at": "2026-11-26T10:33:17+02:00"
+   "updated_at": "2026-11-26T16:33:17+02:00"
   },
   {
    "region": "ternopil",
@@ -1951,7 +1951,7 @@
    "file": "ternopil/5.1.json",
    "image": "https://api.svitlobot.in.ua/timetables/ternopil/5.1.png",
    "image_today": "https://api.svitlobot.in.ua/timetables/ternopil/5.1/today.png",
-   "updated_at": "2026-11-26T09:23:17+02:00"
+   "updated_at": "2026-11-26T16:33:17+02:00"
   },
   {
    "region": "ternopil",
@@ -1960,7 +1960,7 @@
    "file": "ternopil/5.2.json",
    "image": "https://api.svitlobot.in.ua/timetables/ternopil/5.2.png",
    "image_today": "https://api.svitlobot.in.ua/timetables/ternopil/5.2/today.png",
-   "updated_at": "2026-11-26T09:23:17+02:00"
+   "updated_at": "2026-11-26T16:33:17+02:00"
   },
   {
    "region": "ternopil",
@@ -1978,7 +1978,7 @@
    "file": "ternopil/6.2.json",
    "image": "https://api.svitlobot.in.ua/timetables/ternopil/6.2.png",
    "image_today": "https://api.svitlobot.in.ua/timetables/ternopil/6.2/today.png",
-   "updated_at": "2026-11-26T09:23:17+02:00"
+   "updated_at": "2026-11-26T16:33:17+02:00"
   },
   {
    "region": "vinnytsia",
@@ -2338,7 +2338,7 @@
    "file": "zhytomyr/2.2.json",
    "image": "https://api.svitlobot.in.ua/timetables/zhytomyr/2.2.png",
    "image_today": "https://api.svitlobot.in.ua/timetables/zhytomyr/2.2/today.png",
-   "updated_at": "2026-11-26T14:38:18+02:00"
+   "updated_at": "2026-11-26T16:33:17+02:00"
   },
   {
    "region": "zhytomyr",
@@ -2392,7 +2392,7 @@
    "file": "zhytomyr/5.2.json",
    "image": "https://api.svitlobot.in.ua/timetables/zhytomyr/5.2.png",
    "image_today": "https://api.svitlobot.in.ua/timetables/zhytomyr/5.2/today.png",
-   "updated_at": "2026-11-25T21:46:52+02:00"
+   "updated_at": "2026-11-26T16:33:17+02:00"
   },
   {
    "region": "zhytomyr",
