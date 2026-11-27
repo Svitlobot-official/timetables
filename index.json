@@ -583,7 +583,7 @@
    "file": "ivano_frankivsk/1.1.json",
    "image": "https://api.svitlobot.in.ua/timetables/ivano_frankivsk/1.1.png",
    "image_today": "https://api.svitlobot.in.ua/timetables/ivano_frankivsk/1.1/today.png",
-   "updated_at": "2026-11-26T22:28:23+02:00"
+   "updated_at": "2026-11-27T18:56:54+02:00"
   },
   {
    "region": "ivano_frankivsk",
@@ -592,7 +592,7 @@
    "file": "ivano_frankivsk/1.2.json",
    "image": "https://api.svitlobot.in.ua/timetables/ivano_frankivsk/1.2.png",
    "image_today": "https://api.svitlobot.in.ua/timetables/ivano_frankivsk/1.2/today.png",
-   "updated_at": "2026-11-27T12:31:51+02:00"
+   "updated_at": "2026-11-27T18:56:54+02:00"
   },
   {
    "region": "ivano_frankivsk",
@@ -1753,7 +1753,7 @@
    "file": "odesa/6.1.json",
    "image": "https://api.svitlobot.in.ua/timetables/odesa/6.1.png",
    "image_today": "https://api.svitlobot.in.ua/timetables/odesa/6.1/today.png",
-   "updated_at": "2026-11-26T22:38:25+02:00"
+   "updated_at": "2026-11-27T18:56:54+02:00"
   },
   {
    "region": "odesa",
