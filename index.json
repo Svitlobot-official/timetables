@@ -1483,7 +1483,7 @@
    "file": "kyiv_oblast/3.1.json",
    "image": "https://api.svitlobot.in.ua/timetables/kyiv_oblast/3.1.png",
    "image_today": "https://api.svitlobot.in.ua/timetables/kyiv_oblast/3.1/today.png",
-   "updated_at": "2026-11-27T00:16:48+02:00"
+   "updated_at": "2026-11-27T16:02:30+02:00"
   },
   {
    "region": "kyiv_oblast",
@@ -1537,7 +1537,7 @@
    "file": "kyiv_oblast/6.1.json",
    "image": "https://api.svitlobot.in.ua/timetables/kyiv_oblast/6.1.png",
    "image_today": "https://api.svitlobot.in.ua/timetables/kyiv_oblast/6.1/today.png",
-   "updated_at": "2026-11-27T12:36:50+02:00"
+   "updated_at": "2026-11-27T16:02:30+02:00"
   },
   {
    "region": "kyiv_oblast",
