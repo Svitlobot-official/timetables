@@ -469,6 +469,114 @@
    "updated_at": "2026-11-25T23:21:51+02:00"
   },
   {
+   "region": "dnipro_dtek",
+   "region_name": "Дніпро та область — ДТЕК",
+   "group": "7.1",
+   "file": "dnipro_dtek/7.1.json",
+   "image": "https://api.svitlobot.in.ua/timetables/dnipro_dtek/7.1.png",
+   "image_today": "https://api.svitlobot.in.ua/timetables/dnipro_dtek/7.1/today.png",
+   "updated_at": "2026-11-27T13:40:48+02:00"
+  },
+  {
+   "region": "dnipro_dtek",
+   "region_name": "Дніпро та область — ДТЕК",
+   "group": "8.1",
+   "file": "dnipro_dtek/8.1.json",
+   "image": "https://api.svitlobot.in.ua/timetables/dnipro_dtek/8.1.png",
+   "image_today": "https://api.svitlobot.in.ua/timetables/dnipro_dtek/8.1/today.png",
+   "updated_at": "2026-11-27T13:40:48+02:00"
+  },
+  {
+   "region": "dnipro_dtek",
+   "region_name": "Дніпро та область — ДТЕК",
+   "group": "9.1",
+   "file": "dnipro_dtek/9.1.json",
+   "image": "https://api.svitlobot.in.ua/timetables/dnipro_dtek/9.1.png",
+   "image_today": "https://api.svitlobot.in.ua/timetables/dnipro_dtek/9.1/today.png",
+   "updated_at": "2026-11-27T13:40:48+02:00"
+  },
+  {
+   "region": "dnipro_dtek",
+   "region_name": "Дніпро та область — ДТЕК",
+   "group": "10.1",
+   "file": "dnipro_dtek/10.1.json",
+   "image": "https://api.svitlobot.in.ua/timetables/dnipro_dtek/10.1.png",
+   "image_today": "https://api.svitlobot.in.ua/timetables/dnipro_dtek/10.1/today.png",
+   "updated_at": "2026-11-27T13:40:48+02:00"
+  },
+  {
+   "region": "dnipro_dtek",
+   "region_name": "Дніпро та область — ДТЕК",
+   "group": "11.1",
+   "file": "dnipro_dtek/11.1.json",
+   "image": "https://api.svitlobot.in.ua/timetables/dnipro_dtek/11.1.png",
+   "image_today": "https://api.svitlobot.in.ua/timetables/dnipro_dtek/11.1/today.png",
+   "updated_at": "2026-11-27T13:40:48+02:00"
+  },
+  {
+   "region": "dnipro_dtek",
+   "region_name": "Дніпро та область — ДТЕК",
+   "group": "12.1",
+   "file": "dnipro_dtek/12.1.json",
+   "image": "https://api.svitlobot.in.ua/timetables/dnipro_dtek/12.1.png",
+   "image_today": "https://api.svitlobot.in.ua/timetables/dnipro_dtek/12.1/today.png",
+   "updated_at": "2026-11-27T13:40:48+02:00"
+  },
+  {
+   "region": "dnipro_dtek",
+   "region_name": "Дніпро та область — ДТЕК",
+   "group": "13.1",
+   "file": "dnipro_dtek/13.1.json",
+   "image": "https://api.svitlobot.in.ua/timetables/dnipro_dtek/13.1.png",
+   "image_today": "https://api.svitlobot.in.ua/timetables/dnipro_dtek/13.1/today.png",
+   "updated_at": "2026-11-27T13:40:48+02:00"
+  },
+  {
+   "region": "dnipro_dtek",
+   "region_name": "Дніпро та область — ДТЕК",
+   "group": "14.1",
+   "file": "dnipro_dtek/14.1.json",
+   "image": "https://api.svitlobot.in.ua/timetables/dnipro_dtek/14.1.png",
+   "image_today": "https://api.svitlobot.in.ua/timetables/dnipro_dtek/14.1/today.png",
+   "updated_at": "2026-11-27T13:40:48+02:00"
+  },
+  {
+   "region": "dnipro_dtek",
+   "region_name": "Дніпро та область — ДТЕК",
+   "group": "15.1",
+   "file": "dnipro_dtek/15.1.json",
+   "image": "https://api.svitlobot.in.ua/timetables/dnipro_dtek/15.1.png",
+   "image_today": "https://api.svitlobot.in.ua/timetables/dnipro_dtek/15.1/today.png",
+   "updated_at": "2026-11-27T13:40:48+02:00"
+  },
+  {
+   "region": "dnipro_dtek",
+   "region_name": "Дніпро та область — ДТЕК",
+   "group": "16.1",
+   "file": "dnipro_dtek/16.1.json",
+   "image": "https://api.svitlobot.in.ua/timetables/dnipro_dtek/16.1.png",
+   "image_today": "https://api.svitlobot.in.ua/timetables/dnipro_dtek/16.1/today.png",
+   "updated_at": "2026-11-27T13:40:48+02:00"
+  },
+  {
+   "region": "dnipro_dtek",
+   "region_name": "Дніпро та область — ДТЕК",
+   "group": "17.1",
+   "file": "dnipro_dtek/17.1.json",
+   "image": "https://api.svitlobot.in.ua/timetables/dnipro_dtek/17.1.png",
+   "image_today": "https://api.svitlobot.in.ua/timetables/dnipro_dtek/17.1/today.png",
+   "updated_at": "2026-11-27T13:40:48+02:00"
+  },
+  {
+   "region": "dnipro_dtek",
+   "region_name": "Дніпро та область — ДТЕК",
+   "group": "18.1",
+   "file": "dnipro_dtek/18.1.json",
+   "image": "https://api.svitlobot.in.ua/timetables/dnipro_dtek/18.1.png",
+   "image_today": "https://api.svitlobot.in.ua/timetables/dnipro_dtek/18.1/today.png",
+   "updated_at": "2026-11-27T13:40:48+02:00"
+  },
+  {
    "region": "ivano_frankivsk",
    "region_name": "Івано-Франківська область",
    "group": "1.1",
