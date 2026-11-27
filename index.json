@@ -1663,7 +1663,7 @@
    "file": "odesa/1.1.json",
    "image": "https://api.svitlobot.in.ua/timetables/odesa/1.1.png",
    "image_today": "https://api.svitlobot.in.ua/timetables/odesa/1.1/today.png",
-   "updated_at": "2026-11-26T22:38:25+02:00"
+   "updated_at": "2026-11-27T15:25:46+02:00"
   },
   {
    "region": "odesa",
@@ -1681,7 +1681,7 @@
    "file": "odesa/2.1.json",
    "image": "https://api.svitlobot.in.ua/timetables/odesa/2.1.png",
    "image_today": "https://api.svitlobot.in.ua/timetables/odesa/2.1/today.png",
-   "updated_at": "2026-11-27T12:31:51+02:00"
+   "updated_at": "2026-11-27T15:25:46+02:00"
   },
   {
    "region": "odesa",
@@ -1699,7 +1699,7 @@
    "file": "odesa/3.1.json",
    "image": "https://api.svitlobot.in.ua/timetables/odesa/3.1.png",
    "image_today": "https://api.svitlobot.in.ua/timetables/odesa/3.1/today.png",
-   "updated_at": "2026-11-26T22:38:25+02:00"
+   "updated_at": "2026-11-27T15:25:46+02:00"
   },
   {
    "region": "odesa",
@@ -1762,7 +1762,7 @@
    "file": "odesa/6.2.json",
    "image": "https://api.svitlobot.in.ua/timetables/odesa/6.2.png",
    "image_today": "https://api.svitlobot.in.ua/timetables/odesa/6.2/today.png",
-   "updated_at": "2026-11-26T22:38:25+02:00"
+   "updated_at": "2026-11-27T15:25:46+02:00"
   },
   {
    "region": "poltava",
@@ -1996,7 +1996,7 @@
    "file": "ternopil/1.2.json",
    "image": "https://api.svitlobot.in.ua/timetables/ternopil/1.2.png",
    "image_today": "https://api.svitlobot.in.ua/timetables/ternopil/1.2/today.png",
-   "updated_at": "2026-11-26T22:13:24+02:00"
+   "updated_at": "2026-11-27T15:25:46+02:00"
   },
   {
    "region": "ternopil",
@@ -2023,7 +2023,7 @@
    "file": "ternopil/3.1.json",
    "image": "https://api.svitlobot.in.ua/timetables/ternopil/3.1.png",
    "image_today": "https://api.svitlobot.in.ua/timetables/ternopil/3.1/today.png",
-   "updated_at": "2026-11-26T22:13:24+02:00"
+   "updated_at": "2026-11-27T15:25:46+02:00"
   },
   {
    "region": "ternopil",
@@ -2032,7 +2032,7 @@
    "file": "ternopil/3.2.json",
    "image": "https://api.svitlobot.in.ua/timetables/ternopil/3.2.png",
    "image_today": "https://api.svitlobot.in.ua/timetables/ternopil/3.2/today.png",
-   "updated_at": "2026-11-26T22:13:24+02:00"
+   "updated_at": "2026-11-27T15:25:46+02:00"
   },
   {
    "region": "ternopil",
@@ -2077,7 +2077,7 @@
    "file": "ternopil/6.1.json",
    "image": "https://api.svitlobot.in.ua/timetables/ternopil/6.1.png",
    "image_today": "https://api.svitlobot.in.ua/timetables/ternopil/6.1/today.png",
-   "updated_at": "2026-11-26T22:13:24+02:00"
+   "updated_at": "2026-11-27T15:25:46+02:00"
   },
   {
    "region": "ternopil",
